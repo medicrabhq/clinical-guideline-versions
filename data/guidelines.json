@@ -1,0 +1,4041 @@
+{
+  "name": "Current versions of clinical guidelines",
+  "description": "For each guideline: the current version, the previous version, the date we last checked it against the issuing organization, and where to get the full text. Guidelines on the same topic from China, Europe, the United States and international societies are listed side by side.",
+  "url": "https://www.medicrab.com/guidelines/",
+  "publisher": "MediCrab",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "dateModified": "2026-10-17",
+  "howToUse": [
+    "To check whether a cited guideline is current, match the organization and topic, then compare the cited year or version with “version” and “previousVersion”. A citation that matches “previousVersion” cites an earlier version. When “previousVersionRelation” is “updates”, the current version changes only part of the earlier one, so both may be cited together.",
+    "Check “lastChecked” before relying on a record, and follow “officialUrl” to the issuing organization. The list records publication facts, not recommendations."
+  ],
+  "fullTextAccessValues": {
+    "free": "The complete guideline is free to read or download from the official source or a file linked from the official page.",
+    "summary-only": "A summary has been published; the full guideline has not been published yet.",
+    "may-need-access": "The full text may need a journal subscription or institutional access.",
+    "not-confirmed": "Start from the official page. We have not confirmed free access to the full text; the site may ask for a sign-in or a browser check."
+  },
+  "previousVersionRelationValues": {
+    "replaces": "The current version replaces the previous version.",
+    "updates": "This version revises part of the earlier guideline; the parts it does not revise still apply."
+  },
+  "count": 72,
+  "records": [
+    {
+      "id": "cn-diabetes-2024",
+      "title": "中国糖尿病防治指南（2024版）",
+      "titleEnglish": "Guideline for the Prevention and Treatment of Diabetes in China (2024 edition)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Endocrinology, diabetes and bone metabolism",
+      "topic": "Diabetes",
+      "topicGroup": "Diabetes",
+      "organizations": [
+        {
+          "name": "中华医学会糖尿病学分会",
+          "acronym": "CDS",
+          "website": "https://diab.cma.org.cn"
+        }
+      ],
+      "version": "2024版",
+      "versionEnglish": "2024 edition",
+      "publicationDate": "2025-01-20",
+      "previousVersion": "中国2型糖尿病防治指南（2020年版）",
+      "doi": "10.3760/cma.j.cn115791-20241203-00705",
+      "pmid": null,
+      "officialUrl": "https://diab.cma.org.cn/cn/zhinangongshi.aspx",
+      "fullTextUrl": "https://files.sciconf.cn/master/50/33230/202501/20250120111901_47273.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://files.sciconf.cn/master/50/33230/202501/20250120111901_47273.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "guideline-hub",
+          "url": "https://diab.cma.org.cn/cn/zhinangongshi.aspx",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://files.sciconf.cn/master/50/33230/202501/20250120111901_47273.pdf",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/endocrinology/#g-cn-diabetes-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/endocrinology/#g-cn-diabetes-2024"
+    },
+    {
+      "id": "cn-hypertension-2024",
+      "title": "中国高血压防治指南（2024年修订版）",
+      "titleEnglish": "Chinese Guidelines for the Prevention and Treatment of Hypertension (2024 revision)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Cardiology",
+      "topic": "Hypertension",
+      "topicGroup": "Hypertension",
+      "organizations": [
+        {
+          "name": "中国高血压防治指南修订委员会",
+          "acronym": null,
+          "website": "https://cjournal.hep.com.cn"
+        },
+        {
+          "name": "高血压联盟（中国）",
+          "acronym": null,
+          "website": "https://cjournal.hep.com.cn"
+        }
+      ],
+      "version": "2024年修订版",
+      "versionEnglish": "2024 revision",
+      "publicationDate": "2024-07-15",
+      "previousVersion": "中国高血压防治指南（2018年修订版）",
+      "doi": "10.16439/j.issn.1673-7245.2024.07.002",
+      "pmid": null,
+      "officialUrl": "https://cjournal.hep.com.cn/1673-7245/CN/1160171857581368285",
+      "fullTextUrl": "https://cjournal.hep.com.cn/1673-7245/CN/PDF/10.16439/j.issn.1673-7245.2024.07.002",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://cjournal.hep.com.cn/1673-7245/CN/PDF/10.16439/j.issn.1673-7245.2024.07.002",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://cjournal.hep.com.cn/1673-7245/CN/PDF/10.16439/j.issn.1673-7245.2024.07.002",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://cjournal.hep.com.cn/1673-7245/CN/1160171852644672437",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/cardiology/#g-cn-hypertension-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/cardiology/#g-cn-hypertension-2024"
+    },
+    {
+      "id": "cn-male-infertility-2022",
+      "title": "男性不育诊疗指南",
+      "titleEnglish": "Guideline for the Diagnosis and Treatment of Male Infertility (2022)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Andrology and reproductive medicine",
+      "topic": "Male infertility",
+      "topicGroup": "Male infertility and sexual health",
+      "organizations": [
+        {
+          "name": "中华医学会男科学分会",
+          "acronym": null,
+          "website": "https://cma.org.cn"
+        }
+      ],
+      "version": "2022版",
+      "versionEnglish": "2022 edition",
+      "publicationDate": "2022-01",
+      "previousVersion": "2015版男性不育诊疗指南",
+      "doi": "10.13263/j.cnki.nja.2022.01.012",
+      "pmid": null,
+      "officialUrl": "https://doi.org/10.13263/j.cnki.nja.2022.01.012",
+      "fullTextUrl": null,
+      "fullTextAccess": "may-need-access",
+      "fullTextFormat": null,
+      "fullTextLink": null,
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://doi.org/10.13263/j.cnki.nja.2022.01.012",
+          "subscription": true
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/andrology/#g-cn-male-infertility-2022",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/andrology/#g-cn-male-infertility-2022"
+    },
+    {
+      "id": "cn-helicobacter-2026",
+      "title": "中国成人幽门螺杆菌感染诊断、治疗和预防临床实践指南",
+      "titleEnglish": "Chinese Clinical Practice Guideline for the Diagnosis, Treatment and Prevention of Helicobacter pylori Infection in Adults (2026)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Gastroenterology and hepatology",
+      "topic": "Helicobacter pylori infection",
+      "topicGroup": "Helicobacter pylori infection",
+      "organizations": [
+        {
+          "name": "中华医学会消化病学分会幽门螺杆菌学组",
+          "acronym": null,
+          "website": "https://cma.org.cn"
+        }
+      ],
+      "version": "2026版",
+      "versionEnglish": "2026 edition",
+      "publicationDate": "2026-07",
+      "previousVersion": null,
+      "doi": "10.3760/cma.j.cn112138-20260330-00183",
+      "pmid": "42427040",
+      "officialUrl": "https://doi.org/10.3760/cma.j.cn112138-20260330-00183",
+      "fullTextUrl": null,
+      "fullTextAccess": "may-need-access",
+      "fullTextFormat": null,
+      "fullTextLink": null,
+      "previousVersionRelation": null,
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://doi.org/10.3760/cma.j.cn112138-20260330-00183",
+          "subscription": true
+        },
+        {
+          "type": "identity-record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/42427040/",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/gastro-hepatology/#g-cn-helicobacter-2026",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/gastro-hepatology/#g-cn-helicobacter-2026"
+    },
+    {
+      "id": "cn-primary-liver-cancer-2026",
+      "title": "原发性肝癌诊疗指南（2026年版）",
+      "titleEnglish": "Guidelines for the Diagnosis and Treatment of Primary Liver Cancer (2026 edition)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Oncology",
+      "topic": "Primary liver cancer",
+      "topicGroup": "Primary liver cancer",
+      "organizations": [
+        {
+          "name": "中华人民共和国国家卫生健康委员会",
+          "acronym": "NHC",
+          "website": "https://nhc.gov.cn"
+        }
+      ],
+      "version": "2026年版",
+      "versionEnglish": "2026 edition",
+      "publicationDate": "2026-04-09",
+      "previousVersion": "原发性肝癌诊疗指南（2024年版）",
+      "doi": "10.12449/JCH260409",
+      "pmid": null,
+      "officialUrl": "https://www.nhc.gov.cn/yzygj/c100067/202604/3371c9cb2f7f4f55b18c709ff2c53ab8.shtml",
+      "fullTextUrl": "https://www.nhc.gov.cn/yzygj/c100067/202604/3371c9cb2f7f4f55b18c709ff2c53ab8/files/%E5%8E%9F%E5%8F%91%E6%80%A7%E8%82%9D%E7%99%8C%E8%AF%8A%E7%96%97%E6%8C%87%E5%8D%97%EF%BC%882026%E7%89%88%EF%BC%89.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://www.nhc.gov.cn/yzygj/c100067/202604/3371c9cb2f7f4f55b18c709ff2c53ab8/files/%E5%8E%9F%E5%8F%91%E6%80%A7%E8%82%9D%E7%99%8C%E8%AF%8A%E7%96%97%E6%8C%87%E5%8D%97%EF%BC%882026%E7%89%88%EF%BC%89.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://www.nhc.gov.cn/yzygj/c100067/202604/3371c9cb2f7f4f55b18c709ff2c53ab8/files/%E5%8E%9F%E5%8F%91%E6%80%A7%E8%82%9D%E7%99%8C%E8%AF%8A%E7%96%97%E6%8C%87%E5%8D%97%EF%BC%882026%E7%89%88%EF%BC%89.pdf",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://doi.org/10.12449/JCH260409",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/oncology/#g-cn-primary-liver-cancer-2026",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/oncology/#g-cn-primary-liver-cancer-2026"
+    },
+    {
+      "id": "ada-diabetes-2026",
+      "title": "Standards of Care in Diabetes—2026",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "US",
+      "specialty": "Endocrinology, diabetes and bone metabolism",
+      "topic": "Diabetes care",
+      "topicGroup": "Diabetes",
+      "organizations": [
+        {
+          "name": "American Diabetes Association",
+          "acronym": "ADA",
+          "website": "https://professional.diabetes.org"
+        }
+      ],
+      "version": "2026",
+      "versionEnglish": "2026",
+      "publicationDate": "2025-12-08",
+      "previousVersion": "Standards of Care in Diabetes—2025",
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://professional.diabetes.org/standards-of-care",
+      "fullTextUrl": "https://diabetesjournals.org/care/issue/49/Supplement_1",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://diabetesjournals.org/care/issue/49/Supplement_1",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://diabetesjournals.org/care/issue/49/Supplement_1",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://diabetesjournals.org/care/article/49/Supplement_1/S6/163930/Summary-of-Revisions-Standards-of-Care-in-Diabetes",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/endocrinology/#g-ada-diabetes-2026",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/endocrinology/#g-ada-diabetes-2026"
+    },
+    {
+      "id": "kdigo-ckd-2024",
+      "title": "KDIGO 2024 Clinical Practice Guideline for the Evaluation and Management of Chronic Kidney Disease",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "GLOBAL",
+      "specialty": "Nephrology",
+      "topic": "Chronic kidney disease",
+      "topicGroup": "Chronic kidney disease",
+      "organizations": [
+        {
+          "name": "Kidney Disease: Improving Global Outcomes",
+          "acronym": "KDIGO",
+          "website": "https://kdigo.org"
+        }
+      ],
+      "version": "2024",
+      "versionEnglish": "2024",
+      "publicationDate": "2024-03-13",
+      "previousVersion": "KDIGO 2012 CKD Guideline",
+      "doi": "10.1016/j.kint.2023.10.018",
+      "pmid": null,
+      "officialUrl": "https://kdigo.org/guidelines/ckd-evaluation-and-management/",
+      "fullTextUrl": "https://kdigo.org/wp-content/uploads/2026/04/KDIGO-2024-CKD-Guideline.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://kdigo.org/wp-content/uploads/2026/04/KDIGO-2024-CKD-Guideline.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2026-12-08",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://kdigo.org/wp-content/uploads/2026/04/KDIGO-2024-CKD-Guideline.pdf",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/nephrology/#g-kdigo-ckd-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/nephrology/#g-kdigo-ckd-2024"
+    },
+    {
+      "id": "esc-hypertension-2024",
+      "title": "2024 ESC Guidelines for the Management of Elevated Blood Pressure and Hypertension",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "EU",
+      "specialty": "Cardiology",
+      "topic": "Elevated blood pressure and hypertension",
+      "topicGroup": "Hypertension",
+      "organizations": [
+        {
+          "name": "European Society of Cardiology",
+          "acronym": "ESC",
+          "website": "https://escardio.org"
+        }
+      ],
+      "version": "2024",
+      "versionEnglish": "2024",
+      "publicationDate": "2024-08-30",
+      "previousVersion": "2018 ESC/ESH Guidelines for the management of arterial hypertension",
+      "doi": "10.1093/eurheartj/ehae178",
+      "pmid": null,
+      "officialUrl": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/elevated-blood-pressure-and-hypertension/",
+      "fullTextUrl": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae178",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae178",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae178",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1093/eurheartj/ehaf031",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1093/eurheartj/ehaf659",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/cardiology/#g-esc-hypertension-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/cardiology/#g-esc-hypertension-2024"
+    },
+    {
+      "id": "aua-asrm-male-infertility-2024",
+      "title": "Diagnosis and Treatment of Infertility in Men: AUA/ASRM Guideline (2020; Amended 2024)",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "US",
+      "specialty": "Andrology and reproductive medicine",
+      "topic": "Male infertility",
+      "topicGroup": "Male infertility and sexual health",
+      "organizations": [
+        {
+          "name": "American Urological Association",
+          "acronym": "AUA",
+          "website": "https://auanet.org"
+        },
+        {
+          "name": "American Society for Reproductive Medicine",
+          "acronym": "ASRM",
+          "website": "https://asrm.org"
+        }
+      ],
+      "version": "2020; amended 2024",
+      "versionEnglish": "2020; amended 2024",
+      "publicationDate": "2024-07",
+      "previousVersion": "2020 original guideline",
+      "doi": "10.1097/JU.0000000000004180",
+      "pmid": null,
+      "officialUrl": "https://helpdesk.auanet.org/hc/en-us/articles/40948838469143-Guidelines",
+      "fullTextUrl": "https://www.auanet.org/documents/Guidelines/PDF/2024%20Guidelines/Male%20Infertility%20Unabridged%20Final.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://www.auanet.org/documents/Guidelines/PDF/2024%20Guidelines/Male%20Infertility%20Unabridged%20Final.pdf",
+      "previousVersionRelation": "updates",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://www.auanet.org/documents/Guidelines/PDF/2024%20Guidelines/Male%20Infertility%20Unabridged%20Final.pdf",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://www.auanet.org/documents/Guidelines/PDF/2024%20Guidelines/Male%20Infertility%20Amendment%20Summary%202024.pdf",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/andrology/#g-aua-asrm-male-infertility-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/andrology/#g-aua-asrm-male-infertility-2024"
+    },
+    {
+      "id": "acg-helicobacter-2024",
+      "title": "ACG Clinical Guideline: Treatment of Helicobacter pylori Infection",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "US",
+      "specialty": "Gastroenterology and hepatology",
+      "topic": "Helicobacter pylori infection",
+      "topicGroup": "Helicobacter pylori infection",
+      "organizations": [
+        {
+          "name": "American College of Gastroenterology",
+          "acronym": "ACG",
+          "website": "https://gi.org"
+        }
+      ],
+      "version": "2024",
+      "versionEnglish": "2024",
+      "publicationDate": "2024-09",
+      "previousVersion": "ACG Clinical Guideline: Treatment of Helicobacter pylori Infection (2017)",
+      "doi": "10.14309/ajg.0000000000002968",
+      "pmid": "39626064",
+      "officialUrl": "https://gi.org/journals-publications/ebgi/schoenfeld_sep2024/",
+      "fullTextUrl": "https://journals.lww.com/ajg/fulltext/2024/09000/acg_clinical_guideline__treatment_of_helicobacter.13.aspx",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://journals.lww.com/ajg/fulltext/2024/09000/acg_clinical_guideline__treatment_of_helicobacter.13.aspx",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "guideline-hub",
+          "url": "https://gi.org/guidelines/",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://gi.org/wp-content/uploads/2025/01/ACG-Hpylori-Guidelines-Highlights-2024-FINAL.pdf.pdf",
+          "subscription": false
+        },
+        {
+          "type": "identity-record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39626064/",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://journals.lww.com/ajg/fulltext/2024/09000/acg_clinical_guideline__treatment_of_helicobacter.13.aspx",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/gastro-hepatology/#g-acg-helicobacter-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/gastro-hepatology/#g-acg-helicobacter-2024"
+    },
+    {
+      "id": "cn-dyslipidemia-2023",
+      "title": "中国血脂管理指南（2023年）",
+      "titleEnglish": "2023 Chinese guideline for lipid management",
+      "titleEnglishOfficial": true,
+      "translations": [
+        {
+          "language": "en",
+          "title": "2023 Chinese guideline for lipid management",
+          "url": "https://doi.org/10.3389/fphar.2023.1190934",
+          "free": true
+        }
+      ],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Cardiology",
+      "topic": "Dyslipidemia and lipid management",
+      "topicGroup": "Dyslipidaemia and lipid management",
+      "organizations": [
+        {
+          "name": "中国血脂管理指南修订联合专家委员会",
+          "acronym": null,
+          "website": "https://yiigle.com"
+        },
+        {
+          "name": "国家心血管病专家委员会",
+          "acronym": null,
+          "website": "https://nccd.org.cn"
+        },
+        {
+          "name": "中华医学会心血管病学分会",
+          "acronym": "CSC",
+          "website": "https://cma.org.cn"
+        }
+      ],
+      "version": "2023年",
+      "versionEnglish": "2023",
+      "publicationDate": "2023-03-24",
+      "previousVersion": "中国成人血脂异常防治指南（2016年修订版）",
+      "doi": "10.3760/cma.j.cn112148-20230119-00038",
+      "pmid": "36925135",
+      "officialUrl": "https://rs.yiigle.com/cmaid/1449955",
+      "fullTextUrl": null,
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://rs.yiigle.com/cmaid/1449955",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://rs.yiigle.com/cmaid/1449955",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://doi.org/10.3389/fphar.2023.1190934",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/cardiology/#g-cn-dyslipidemia-2023",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/cardiology/#g-cn-dyslipidemia-2023"
+    },
+    {
+      "id": "cn-gestational-hyperglycemia-2022",
+      "title": "妊娠期高血糖诊治指南（2022）",
+      "titleEnglish": "Guideline for the Diagnosis and Treatment of Hyperglycemia in Pregnancy (2022)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Obstetrics, gynecology and reproductive endocrinology",
+      "topic": "Hyperglycemia in pregnancy",
+      "topicGroup": "Diabetes and hyperglycemia in pregnancy",
+      "organizations": [
+        {
+          "name": "中华医学会妇产科学分会产科学组",
+          "acronym": null,
+          "website": "https://cma.org.cn"
+        },
+        {
+          "name": "中华医学会围产医学分会",
+          "acronym": null,
+          "website": "https://cma.org.cn"
+        },
+        {
+          "name": "中国妇幼保健协会妊娠合并糖尿病专业委员会",
+          "acronym": null,
+          "website": "https://cmcha.org"
+        }
+      ],
+      "version": "2022",
+      "versionEnglish": "2022",
+      "publicationDate": "2022-01-25",
+      "previousVersion": "妊娠合并糖尿病诊治指南（2014）",
+      "doi": "10.3760/cma.j.cn112141-20210917-00528",
+      "pmid": "37193590",
+      "officialUrl": "https://rs.yiigle.com/cmaid/1349426",
+      "fullTextUrl": null,
+      "fullTextAccess": "may-need-access",
+      "fullTextFormat": null,
+      "fullTextLink": null,
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1349426",
+          "subscription": true
+        },
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1351485",
+          "subscription": true
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/obstetrics-gynecology/#g-cn-gestational-hyperglycemia-2022",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/obstetrics-gynecology/#g-cn-gestational-hyperglycemia-2022"
+    },
+    {
+      "id": "cn-heart-failure-2024",
+      "title": "中国心力衰竭诊断和治疗指南2024",
+      "titleEnglish": "Chinese Guidelines for the Diagnosis and Treatment of Heart Failure 2024",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Cardiology",
+      "topic": "Heart failure",
+      "topicGroup": "Heart failure",
+      "organizations": [
+        {
+          "name": "中华医学会心血管病学分会",
+          "acronym": "CSC",
+          "website": "https://cma.org.cn"
+        },
+        {
+          "name": "中国医师协会心血管内科医师分会",
+          "acronym": null,
+          "website": "https://cmda.net"
+        },
+        {
+          "name": "中国医师协会心力衰竭专业委员会",
+          "acronym": null,
+          "website": "https://cmda.net"
+        },
+        {
+          "name": "中华心血管病杂志编辑委员会",
+          "acronym": null,
+          "website": "https://yiigle.com"
+        }
+      ],
+      "version": "2024",
+      "versionEnglish": "2024",
+      "publicationDate": "2024-03-24",
+      "previousVersion": "中国心力衰竭诊断和治疗指南2018",
+      "doi": "10.3760/cma.j.cn112148-20231101-00405",
+      "pmid": "38514328",
+      "officialUrl": "https://rs.yiigle.com/cmaid/1495488",
+      "fullTextUrl": null,
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://rs.yiigle.com/cmaid/1495488",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://rs.yiigle.com/cmaid/1495488",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://rs.yiigle.com/cmaid/1505397",
+          "subscription": true
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/cardiology/#g-cn-heart-failure-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/cardiology/#g-cn-heart-failure-2024"
+    },
+    {
+      "id": "cn-atrial-fibrillation-2025",
+      "title": "中国心房颤动管理指南（2025）",
+      "titleEnglish": "Chinese Guidelines for the Management of Atrial Fibrillation (2025)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Cardiology",
+      "topic": "Atrial fibrillation",
+      "topicGroup": "Atrial fibrillation",
+      "organizations": [
+        {
+          "name": "中华医学会心电生理和起搏分会",
+          "acronym": "CSPE",
+          "website": "https://cma.org.cn"
+        },
+        {
+          "name": "中国医师协会心律学专业委员会",
+          "acronym": null,
+          "website": "https://cmda.net"
+        }
+      ],
+      "version": "2025",
+      "versionEnglish": "2025",
+      "publicationDate": "2025-08-28",
+      "previousVersion": "心房颤动：目前的认识和治疗建议（2021）",
+      "doi": "10.3760/cma.j.cn113859-20250716-00102",
+      "pmid": null,
+      "officialUrl": "https://rs.yiigle.com/cmaid/1570944",
+      "fullTextUrl": null,
+      "fullTextAccess": "may-need-access",
+      "fullTextFormat": null,
+      "fullTextLink": null,
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1570944",
+          "subscription": true
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/cardiology/#g-cn-atrial-fibrillation-2025",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/cardiology/#g-cn-atrial-fibrillation-2025"
+    },
+    {
+      "id": "cn-atrial-fibrillation-2023",
+      "title": "心房颤动诊断和治疗中国指南",
+      "titleEnglish": "Chinese Guidelines for the Diagnosis and Management of Atrial Fibrillation",
+      "titleEnglishOfficial": true,
+      "translations": [
+        {
+          "language": "en",
+          "title": "Chinese Guidelines for the Diagnosis and Management of Atrial Fibrillation",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11040055/",
+          "free": true
+        }
+      ],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Cardiology",
+      "topic": "Atrial fibrillation",
+      "topicGroup": "Atrial fibrillation",
+      "organizations": [
+        {
+          "name": "中华医学会心血管病学分会",
+          "acronym": "CSC",
+          "website": "https://cma.org.cn"
+        },
+        {
+          "name": "中国生物医学工程学会心律分会",
+          "acronym": null,
+          "website": "https://csbme.org"
+        }
+      ],
+      "version": "2023",
+      "versionEnglish": "2023",
+      "publicationDate": "2023-06-24",
+      "previousVersion": null,
+      "doi": "10.3760/cma.j.cn112148-20230416-00221",
+      "pmid": "37312479",
+      "officialUrl": "https://rs.yiigle.com/cmaid/1462482",
+      "fullTextUrl": null,
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://csc.cma.org.cn/art/2023/6/21/art_619_51441.html",
+      "previousVersionRelation": null,
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1462482",
+          "subscription": true
+        },
+        {
+          "type": "correction",
+          "url": "https://rs.yiigle.com/cmaid/1462482",
+          "subscription": true
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://csc.cma.org.cn/art/2023/6/21/art_619_51441.html",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11040055/",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/cardiology/#g-cn-atrial-fibrillation-2023",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/cardiology/#g-cn-atrial-fibrillation-2023"
+    },
+    {
+      "id": "cn-copd-2021",
+      "title": "慢性阻塞性肺疾病诊治指南（2021年修订版）",
+      "titleEnglish": "Guidelines for the Diagnosis and Management of Chronic Obstructive Pulmonary Disease (2021 revision)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Respiratory medicine",
+      "topic": "Chronic obstructive pulmonary disease (COPD)",
+      "topicGroup": "COPD",
+      "organizations": [
+        {
+          "name": "中华医学会呼吸病学分会慢性阻塞性肺疾病学组",
+          "acronym": "CTS",
+          "website": "https://cma.org.cn"
+        },
+        {
+          "name": "中国医师协会呼吸医师分会慢性阻塞性肺疾病工作委员会",
+          "acronym": null,
+          "website": "https://cmda.net"
+        }
+      ],
+      "version": "2021年修订版",
+      "versionEnglish": "2021 revision",
+      "publicationDate": "2021-03-12",
+      "previousVersion": "慢性阻塞性肺疾病诊治指南（2013年修订版）",
+      "doi": "10.3760/cma.j.cn112147-20210109-00031",
+      "pmid": "33721932",
+      "officialUrl": "https://rs.yiigle.com/cmaid/1312180",
+      "fullTextUrl": null,
+      "fullTextAccess": "may-need-access",
+      "fullTextFormat": null,
+      "fullTextLink": null,
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1312180",
+          "subscription": true
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/respiratory/#g-cn-copd-2021",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/respiratory/#g-cn-copd-2021"
+    },
+    {
+      "id": "cn-asthma-2024",
+      "title": "支气管哮喘防治指南（2024年版）",
+      "titleEnglish": "Guidelines for the Prevention and Management of Bronchial Asthma (2024 edition)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Respiratory medicine",
+      "topic": "Asthma in adults",
+      "topicGroup": "Asthma",
+      "organizations": [
+        {
+          "name": "中华医学会呼吸病学分会哮喘学组",
+          "acronym": "CTS",
+          "website": "https://cma.org.cn"
+        }
+      ],
+      "version": "2024年版",
+      "versionEnglish": "2024 edition",
+      "publicationDate": "2025-03-12",
+      "previousVersion": "支气管哮喘防治指南（2020年版）",
+      "doi": "10.3760/cma.j.cn112147-20241013-00601",
+      "pmid": "40050074",
+      "officialUrl": "https://rs.yiigle.com/cmaid/1532201",
+      "fullTextUrl": null,
+      "fullTextAccess": "may-need-access",
+      "fullTextFormat": null,
+      "fullTextLink": null,
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1532201",
+          "subscription": true
+        },
+        {
+          "type": "correction",
+          "url": "https://rs.yiigle.com/cmaid/1534561",
+          "subscription": true
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/respiratory/#g-cn-asthma-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/respiratory/#g-cn-asthma-2024"
+    },
+    {
+      "id": "cn-acute-ischemic-stroke-2023",
+      "title": "中国急性缺血性卒中诊治指南2023",
+      "titleEnglish": "Chinese Guidelines for the Diagnosis and Treatment of Acute Ischemic Stroke 2023",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Neurology",
+      "topic": "Acute ischemic stroke",
+      "topicGroup": "Stroke and cerebrovascular disease",
+      "organizations": [
+        {
+          "name": "中华医学会神经病学分会",
+          "acronym": "CSN",
+          "website": "https://cma.org.cn"
+        },
+        {
+          "name": "中华医学会神经病学分会脑血管病学组",
+          "acronym": null,
+          "website": "https://cma.org.cn"
+        }
+      ],
+      "version": "2023",
+      "versionEnglish": "2023",
+      "publicationDate": "2024-06-08",
+      "previousVersion": "中国急性缺血性脑卒中诊治指南2018",
+      "doi": "10.3760/cma.j.cn113694-20240410-00221",
+      "pmid": null,
+      "officialUrl": "https://rs.yiigle.com/cmaid/1504708",
+      "fullTextUrl": null,
+      "fullTextAccess": "may-need-access",
+      "fullTextFormat": null,
+      "fullTextLink": null,
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1504708",
+          "subscription": true
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/neurology/#g-cn-acute-ischemic-stroke-2023",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/neurology/#g-cn-acute-ischemic-stroke-2023"
+    },
+    {
+      "id": "cn-cerebrovascular-nhc-2024",
+      "title": "脑血管病防治指南（2024年版）",
+      "titleEnglish": "Guideline for the Prevention and Treatment of Cerebrovascular Disease (2024 edition)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Neurology",
+      "topic": "Cerebrovascular disease",
+      "topicGroup": "Stroke and cerebrovascular disease",
+      "organizations": [
+        {
+          "name": "中华人民共和国国家卫生健康委员会",
+          "acronym": "NHC",
+          "website": "https://nhc.gov.cn"
+        }
+      ],
+      "version": "2024年版",
+      "versionEnglish": "2024 edition",
+      "publicationDate": "2024-12-31",
+      "previousVersion": null,
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://www.nhc.gov.cn/ylyjs/zcwj/202412/ba037e931fff4870930f65ff667ea9ed.shtml",
+      "fullTextUrl": "https://www.nhc.gov.cn/ylyjs/zcwj/202412/ba037e931fff4870930f65ff667ea9ed/files/1736390751587_80714.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://www.nhc.gov.cn/ylyjs/zcwj/202412/ba037e931fff4870930f65ff667ea9ed/files/1736390751587_80714.pdf",
+      "previousVersionRelation": null,
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://www.nhc.gov.cn/ylyjs/zcwj/202412/ba037e931fff4870930f65ff667ea9ed/files/1736390751587_80714.pdf",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/neurology/#g-cn-cerebrovascular-nhc-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/neurology/#g-cn-cerebrovascular-nhc-2024"
+    },
+    {
+      "id": "cn-osteoporosis-2022",
+      "title": "原发性骨质疏松症诊疗指南（2022）",
+      "titleEnglish": "Guidelines for the Diagnosis and Treatment of Primary Osteoporosis (2022)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Endocrinology, diabetes and bone metabolism",
+      "topic": "Primary osteoporosis",
+      "topicGroup": "Osteoporosis",
+      "organizations": [
+        {
+          "name": "中华医学会骨质疏松和骨矿盐疾病分会",
+          "acronym": "CSOBMR",
+          "website": "https://csobmr.cma.org.cn"
+        }
+      ],
+      "version": "2022",
+      "versionEnglish": "2022",
+      "publicationDate": "2022-11-10",
+      "previousVersion": "原发性骨质疏松症诊疗指南（2017）",
+      "doi": "10.3969/j.issn.1674-2591.2022.06.001",
+      "pmid": null,
+      "officialUrl": "https://csobmr.cma.org.cn/nlist.aspx?cids=20",
+      "fullTextUrl": "https://files.sciconf.cn/gs_pdf/2026/07/16/20260716144713519488.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://files.sciconf.cn/gs_pdf/2026/07/16/20260716144713519488.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "guideline-hub",
+          "url": "https://csobmr.cma.org.cn/nlist.aspx?cids=20",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://files.sciconf.cn/gs_pdf/2026/07/16/20260716144713519488.pdf",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/endocrinology/#g-cn-osteoporosis-2022",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/endocrinology/#g-cn-osteoporosis-2022"
+    },
+    {
+      "id": "cn-hepatitis-b-2022",
+      "title": "慢性乙型肝炎防治指南（2022年版）",
+      "titleEnglish": "Guidelines for the Prevention and Treatment of Chronic Hepatitis B (version 2022)",
+      "titleEnglishOfficial": true,
+      "translations": [
+        {
+          "language": "en",
+          "title": "Guidelines for the Prevention and Treatment of Chronic Hepatitis B (version 2022)",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10500285/",
+          "free": true
+        }
+      ],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Gastroenterology and hepatology",
+      "topic": "Chronic hepatitis B",
+      "topicGroup": "Chronic hepatitis B",
+      "organizations": [
+        {
+          "name": "中华医学会肝病学分会",
+          "acronym": null,
+          "website": "https://cma.org.cn"
+        },
+        {
+          "name": "中华医学会感染病学分会",
+          "acronym": null,
+          "website": "https://cma.org.cn"
+        }
+      ],
+      "version": "2022年版",
+      "versionEnglish": "2022 edition",
+      "publicationDate": "2022-12-20",
+      "previousVersion": "慢性乙型肝炎防治指南（2019年版）",
+      "doi": "10.3760/cma.j.cn501113-20221204-00607",
+      "pmid": "36891718",
+      "officialUrl": "https://rs.yiigle.com/cmaid/1449258",
+      "fullTextUrl": null,
+      "fullTextAccess": "may-need-access",
+      "fullTextFormat": null,
+      "fullTextLink": null,
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1449258",
+          "subscription": true
+        },
+        {
+          "type": "identity-record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36891718/",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10500285/",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/gastro-hepatology/#g-cn-hepatitis-b-2022",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/gastro-hepatology/#g-cn-hepatitis-b-2022"
+    },
+    {
+      "id": "cn-masld-2024",
+      "title": "代谢相关（非酒精性）脂肪性肝病防治指南（2024年版）",
+      "titleEnglish": "Guideline for the Prevention and Treatment of Metabolic Dysfunction-associated Fatty Liver Disease (Version 2024)",
+      "titleEnglishOfficial": true,
+      "translations": [
+        {
+          "language": "en",
+          "title": "Guideline for the Prevention and Treatment of Metabolic Dysfunction-associated Fatty Liver Disease (Version 2024)",
+          "url": "https://www.xiahepublishing.com/2310-8819/JCTH-2024-00311",
+          "free": true
+        }
+      ],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Gastroenterology and hepatology",
+      "topic": "Metabolic dysfunction-associated fatty liver disease",
+      "topicGroup": "Fatty liver disease (MAFLD and MASLD)",
+      "organizations": [
+        {
+          "name": "中华医学会肝病学分会",
+          "acronym": null,
+          "website": "https://cma.org.cn"
+        }
+      ],
+      "version": "2024年版",
+      "versionEnglish": "2024 edition",
+      "publicationDate": "2024-05-20",
+      "previousVersion": "非酒精性脂肪性肝病防治指南（2018年更新版）",
+      "doi": "10.3760/cma.j.cn501113-20240327-00163",
+      "pmid": "38858192",
+      "officialUrl": "https://rs.yiigle.com/cmaid/1504653",
+      "fullTextUrl": null,
+      "fullTextAccess": "may-need-access",
+      "fullTextFormat": null,
+      "fullTextLink": null,
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1504653",
+          "subscription": true
+        },
+        {
+          "type": "identity-record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38858192/",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://www.xiahepublishing.com/2310-8819/JCTH-2024-00311",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/gastro-hepatology/#g-cn-masld-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/gastro-hepatology/#g-cn-masld-2024"
+    },
+    {
+      "id": "cn-lung-cancer-2022",
+      "title": "原发性肺癌诊疗指南（2022年版）",
+      "titleEnglish": "Guidelines for the Diagnosis and Treatment of Primary Lung Cancer (2022 edition)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Oncology",
+      "topic": "Primary lung cancer",
+      "topicGroup": "Lung cancer",
+      "organizations": [
+        {
+          "name": "中华人民共和国国家卫生健康委员会",
+          "acronym": "NHC",
+          "website": "https://nhc.gov.cn"
+        }
+      ],
+      "version": "2022年版",
+      "versionEnglish": "2022 edition",
+      "publicationDate": "2022-04-11",
+      "previousVersion": "原发性肺癌诊疗规范（2018年版）",
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930.shtml",
+      "fullTextUrl": "https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930/files/1732863054387_68585.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930/files/1732863054387_68585.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930/files/1732863054387_68585.pdf",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://doi.org/10.12290/xhyxzz.2022-0352",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/oncology/#g-cn-lung-cancer-2022",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/oncology/#g-cn-lung-cancer-2022"
+    },
+    {
+      "id": "cn-breast-cancer-2022",
+      "title": "乳腺癌诊疗指南（2022年版）",
+      "titleEnglish": "Guidelines for the Diagnosis and Treatment of Breast Cancer (2022 edition)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Oncology",
+      "topic": "Breast cancer",
+      "topicGroup": "Breast cancer",
+      "organizations": [
+        {
+          "name": "中华人民共和国国家卫生健康委员会",
+          "acronym": "NHC",
+          "website": "https://nhc.gov.cn"
+        }
+      ],
+      "version": "2022年版",
+      "versionEnglish": "2022 edition",
+      "publicationDate": "2022-04-11",
+      "previousVersion": "乳腺癌诊疗规范（2018年版）",
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930.shtml",
+      "fullTextUrl": "https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930/files/1732863054702_65919.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930/files/1732863054702_65919.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930/files/1732863054702_65919.pdf",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/oncology/#g-cn-breast-cancer-2022",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/oncology/#g-cn-breast-cancer-2022"
+    },
+    {
+      "id": "cn-gastric-cancer-2022",
+      "title": "胃癌诊疗指南（2022年版）",
+      "titleEnglish": "Guidelines for the Diagnosis and Treatment of Gastric Cancer (2022 edition)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Oncology",
+      "topic": "Gastric cancer",
+      "topicGroup": "Gastric cancer",
+      "organizations": [
+        {
+          "name": "中华人民共和国国家卫生健康委员会",
+          "acronym": "NHC",
+          "website": "https://nhc.gov.cn"
+        }
+      ],
+      "version": "2022年版",
+      "versionEnglish": "2022 edition",
+      "publicationDate": "2022-04-11",
+      "previousVersion": "胃癌诊疗规范（2018年版）",
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930.shtml",
+      "fullTextUrl": "https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930/files/1732863054755_83603.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930/files/1732863054755_83603.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930/files/1732863054755_83603.pdf",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/oncology/#g-cn-gastric-cancer-2022",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/oncology/#g-cn-gastric-cancer-2022"
+    },
+    {
+      "id": "cn-pcos-2018",
+      "title": "多囊卵巢综合征中国诊疗指南",
+      "titleEnglish": "Chinese Guideline for the Diagnosis and Treatment of Polycystic Ovary Syndrome (2018)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Obstetrics, gynecology and reproductive endocrinology",
+      "topic": "Polycystic ovary syndrome (PCOS)",
+      "topicGroup": "Polycystic ovary syndrome",
+      "organizations": [
+        {
+          "name": "中华医学会妇产科学分会内分泌学组及指南专家组",
+          "acronym": null,
+          "website": "https://cma.org.cn"
+        }
+      ],
+      "version": "2018",
+      "versionEnglish": "2018",
+      "publicationDate": "2018-01-25",
+      "previousVersion": null,
+      "doi": "10.3760/cma.j.issn.0529-567X.2018.01.002",
+      "pmid": "29374878",
+      "officialUrl": "https://rs.yiigle.com/cmaid/1021396",
+      "fullTextUrl": null,
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://master.yiigle.com/uploads/guide_html/%E5%A4%9A%E5%9B%8A%E5%8D%B5%E5%B7%A2%E7%BB%BC%E5%90%88%E5%BE%81%E4%B8%AD%E5%9B%BD%E8%AF%8A%E7%96%97%E6%8C%87%E5%8D%97.html",
+      "previousVersionRelation": null,
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1021396",
+          "subscription": true
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://master.yiigle.com/uploads/guide_html/%E5%A4%9A%E5%9B%8A%E5%8D%B5%E5%B7%A2%E7%BB%BC%E5%90%88%E5%BE%81%E4%B8%AD%E5%9B%BD%E8%AF%8A%E7%96%97%E6%8C%87%E5%8D%97.html",
+          "subscription": false
+        },
+        {
+          "type": "identity-record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/29374878/",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/obstetrics-gynecology/#g-cn-pcos-2018",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/obstetrics-gynecology/#g-cn-pcos-2018"
+    },
+    {
+      "id": "aha-acc-hypertension-2025",
+      "title": "2025 AHA/ACC/AANP/AAPA/ABC/ACCP/ACPM/AGS/AMA/ASPC/NMA/PCNA/SGIM Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "US",
+      "specialty": "Cardiology",
+      "topic": "High blood pressure in adults",
+      "topicGroup": "Hypertension",
+      "organizations": [
+        {
+          "name": "American Heart Association",
+          "acronym": "AHA",
+          "website": "https://professional.heart.org"
+        },
+        {
+          "name": "American College of Cardiology",
+          "acronym": "ACC",
+          "website": "https://acc.org"
+        }
+      ],
+      "version": "2025",
+      "versionEnglish": "2025",
+      "publicationDate": "2025-08-14",
+      "previousVersion": "2017 ACC/AHA/AAPA/ABC/ACPM/AGS/APhA/ASH/ASPC/NMA/PCNA Guideline for the Prevention, Detection, Evaluation, and Management of High Blood Pressure in Adults",
+      "doi": "10.1161/CIR.0000000000001356",
+      "pmid": "40811497",
+      "officialUrl": "https://professional.heart.org/en/guidelines-statements/2025-ahaaccaanpaapaabcaccpacpmagsamaaspcnmapcnasgim-guideline-for-thecir0000000000001356",
+      "fullTextUrl": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001356",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001356",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001356",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://www.ahajournals.org/doi/10.1161/HYP.0000000000000249",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://www.jacc.org/doi/10.1016/j.jacc.2025.05.007",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1161/CIR.0000000000001396",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1161/CIR.0000000000001436",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1161/CIR.0000000000001448",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/cardiology/#g-aha-acc-hypertension-2025",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/cardiology/#g-aha-acc-hypertension-2025"
+    },
+    {
+      "id": "esc-dyslipidaemia-2025",
+      "title": "2025 Focused Update of the 2019 ESC/EAS Guidelines for the management of dyslipidaemias",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "EU",
+      "specialty": "Cardiology",
+      "topic": "Dyslipidaemias",
+      "topicGroup": "Dyslipidaemia and lipid management",
+      "organizations": [
+        {
+          "name": "European Society of Cardiology",
+          "acronym": "ESC",
+          "website": "https://escardio.org"
+        },
+        {
+          "name": "European Atherosclerosis Society",
+          "acronym": "EAS",
+          "website": "https://eas-society.org"
+        }
+      ],
+      "version": "2025 focused update of 2019",
+      "versionEnglish": "2025 focused update of 2019",
+      "publicationDate": "2025-08-29",
+      "previousVersion": "2019 ESC/EAS Guidelines for the management of dyslipidaemias: lipid modification to reduce cardiovascular risk",
+      "doi": "10.1093/eurheartj/ehaf190",
+      "pmid": "40878289",
+      "officialUrl": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/dyslipidaemias/",
+      "fullTextUrl": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehaf190",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehaf190",
+      "previousVersionRelation": "updates",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehaf190",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehz455",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1093/eurheartj/ehaf1036",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1093/eurheartj/ehz826",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/cardiology/#g-esc-dyslipidaemia-2025",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/cardiology/#g-esc-dyslipidaemia-2025"
+    },
+    {
+      "id": "esc-heart-failure-2026",
+      "title": "2026 ESC Guidelines for the management of heart failure",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "EU",
+      "specialty": "Cardiology",
+      "topic": "Heart failure",
+      "topicGroup": "Heart failure",
+      "organizations": [
+        {
+          "name": "European Society of Cardiology",
+          "acronym": "ESC",
+          "website": "https://escardio.org"
+        }
+      ],
+      "version": "2026",
+      "versionEnglish": "2026",
+      "publicationDate": "2026-08-28",
+      "previousVersion": "2021 ESC Guidelines for the diagnosis and treatment of acute and chronic heart failure (with 2023 Focused Update)",
+      "doi": "10.1093/eurheartj/ehag100",
+      "pmid": "42661420",
+      "officialUrl": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/heart-failure/",
+      "fullTextUrl": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehag100",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehag100",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehag100",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/cardiology/#g-esc-heart-failure-2026",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/cardiology/#g-esc-heart-failure-2026"
+    },
+    {
+      "id": "esc-af-2024",
+      "title": "2024 ESC Guidelines for the management of atrial fibrillation developed in collaboration with the European Association for Cardio-Thoracic Surgery (EACTS)",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "EU",
+      "specialty": "Cardiology",
+      "topic": "Atrial fibrillation",
+      "topicGroup": "Atrial fibrillation",
+      "organizations": [
+        {
+          "name": "European Society of Cardiology",
+          "acronym": "ESC",
+          "website": "https://escardio.org"
+        },
+        {
+          "name": "European Association for Cardio-Thoracic Surgery",
+          "acronym": "EACTS",
+          "website": "https://eacts.org"
+        }
+      ],
+      "version": "2024",
+      "versionEnglish": "2024",
+      "publicationDate": "2024-08-30",
+      "previousVersion": "2020 ESC Guidelines for the diagnosis and management of atrial fibrillation developed in collaboration with EACTS",
+      "doi": "10.1093/eurheartj/ehae176",
+      "pmid": "39210723",
+      "officialUrl": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/atrial-fibrillation/",
+      "fullTextUrl": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae176",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae176",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehae176",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1093/eurheartj/ehaf306",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/cardiology/#g-esc-af-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/cardiology/#g-esc-af-2024"
+    },
+    {
+      "id": "aha-asa-acute-ischemic-stroke-2026",
+      "title": "2026 Guideline for the Early Management of Patients With Acute Ischemic Stroke: A Guideline From the American Heart Association/American Stroke Association",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "US",
+      "specialty": "Neurology",
+      "topic": "Acute ischemic stroke",
+      "topicGroup": "Stroke and cerebrovascular disease",
+      "organizations": [
+        {
+          "name": "American Heart Association",
+          "acronym": "AHA",
+          "website": "https://professional.heart.org"
+        },
+        {
+          "name": "American Stroke Association",
+          "acronym": "ASA",
+          "website": "https://stroke.org"
+        }
+      ],
+      "version": "2026",
+      "versionEnglish": "2026",
+      "publicationDate": "2026-01-26",
+      "previousVersion": "2018 Guidelines for the Early Management of Patients With Acute Ischemic Stroke and its 2019 update",
+      "doi": "10.1161/STR.0000000000000513",
+      "pmid": "41582814",
+      "officialUrl": "https://professional.heart.org/en/guidelines-statements/2026-guideline-for-the-early-management-of-patients-with-acute-ischemic-strokestr0000000000000513",
+      "fullTextUrl": "https://www.ahajournals.org/doi/10.1161/STR.0000000000000513",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://www.ahajournals.org/doi/10.1161/STR.0000000000000513",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://www.ahajournals.org/doi/10.1161/STR.0000000000000513",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1161/STR.0000000000000530",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/neurology/#g-aha-asa-acute-ischemic-stroke-2026",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/neurology/#g-aha-asa-acute-ischemic-stroke-2026"
+    },
+    {
+      "id": "gold-copd-2026",
+      "title": "Global Strategy for Prevention, Diagnosis and Management of COPD: 2026 Report",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "GLOBAL",
+      "specialty": "Respiratory medicine",
+      "topic": "Chronic obstructive pulmonary disease (COPD)",
+      "topicGroup": "COPD",
+      "organizations": [
+        {
+          "name": "Global Initiative for Chronic Obstructive Lung Disease",
+          "acronym": "GOLD",
+          "website": "https://goldcopd.org"
+        }
+      ],
+      "version": "2026 Report (v1.3)",
+      "versionEnglish": "2026 Report (v1.3)",
+      "publicationDate": "2025-11-06",
+      "previousVersion": "GOLD 2025 Report",
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://goldcopd.org/2026-gold-report-and-pocket-guide/",
+      "fullTextUrl": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-REPORT-2026-v1.3-8Dec2025_WMV2.pdf",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://goldcopd.org/wp-content/uploads/2026/01/GOLD-Pocket-Guide-2026-v1.1-20Nov2025_WMV2.pdf",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://goldcopd.org/wp-content/uploads/2025/11/KEY-CHANGES-GOLD-2026-10Nov2025.pdf",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/respiratory/#g-gold-copd-2026",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/respiratory/#g-gold-copd-2026"
+    },
+    {
+      "id": "gina-asthma-2026",
+      "title": "Global Strategy for Asthma Management and Prevention (2026 update)",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "GLOBAL",
+      "specialty": "Respiratory medicine",
+      "topic": "Asthma",
+      "topicGroup": "Asthma",
+      "organizations": [
+        {
+          "name": "Global Initiative for Asthma",
+          "acronym": "GINA",
+          "website": "https://ginasthma.org"
+        }
+      ],
+      "version": "2026",
+      "versionEnglish": "2026",
+      "publicationDate": "2026-05",
+      "previousVersion": "GINA 2025 Strategy Report (Global Strategy for Asthma Management and Prevention, 2025 update)",
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://ginasthma.org/2026-gina-strategy-report/",
+      "fullTextUrl": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "guideline-hub",
+          "url": "https://ginasthma.org/reports/",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://ginasthma.org/wp-content/uploads/2026/05/GINA-2026-Strategy-Report-WMS.pdf",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://ginasthma.org/wp-content/uploads/2026/07/GINA-Summary-Guide-2026-WEB-WMS.pdf",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/respiratory/#g-gina-asthma-2026",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/respiratory/#g-gina-asthma-2026"
+    },
+    {
+      "id": "ssc-sepsis-2026",
+      "title": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2026",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "GLOBAL",
+      "specialty": "Critical care and emergency medicine",
+      "topic": "Sepsis and septic shock in adults",
+      "topicGroup": "Sepsis and septic shock in adults",
+      "organizations": [
+        {
+          "name": "Society of Critical Care Medicine",
+          "acronym": "SCCM",
+          "website": "https://sccm.org"
+        },
+        {
+          "name": "European Society of Intensive Care Medicine",
+          "acronym": "ESICM",
+          "website": "https://esicm.org"
+        }
+      ],
+      "version": "2026",
+      "versionEnglish": "2026",
+      "publicationDate": "2026-03-23",
+      "previousVersion": "Surviving Sepsis Campaign: International Guidelines for Management of Sepsis and Septic Shock 2021",
+      "doi": "10.1097/CCM.0000000000007075",
+      "pmid": "41869847",
+      "officialUrl": "https://www.sccm.org/survivingsepsiscampaign/guidelines-and-resources/surviving-sepsis-campaign-adult-guidelines",
+      "fullTextUrl": "https://journals.lww.com/ccmjournal/10.1097/CCM.0000000000007075",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://journals.lww.com/ccmjournal/10.1097/CCM.0000000000007075",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://journals.lww.com/ccmjournal/10.1097/CCM.0000000000007075",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://link.springer.com/article/10.1007/s00134-026-08361-1",
+          "subscription": true
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1007/s00134-026-08410-9",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://www.sccm.org/SCCM/media/SCCM/PDFs/SSC-Adult-Quick-Guide-Infographic-2026.pdf",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://www.sccm.org/SCCM/media/SCCM/PDFs/SSC-Adult-Antibiotic-Timing-Framework-Infographic-2026.pdf",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/surviving-sepsis-campaign-adults/",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/surviving-sepsis-campaign-adults/"
+    },
+    {
+      "id": "easl-masld-2024",
+      "title": "EASL–EASD–EASO Clinical Practice Guidelines on the management of metabolic dysfunction-associated steatotic liver disease (MASLD)",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "EU",
+      "specialty": "Gastroenterology and hepatology",
+      "topic": "Metabolic dysfunction-associated steatotic liver disease (MASLD)",
+      "topicGroup": "Fatty liver disease (MAFLD and MASLD)",
+      "organizations": [
+        {
+          "name": "European Association for the Study of the Liver",
+          "acronym": "EASL",
+          "website": "https://easl.eu"
+        },
+        {
+          "name": "European Association for the Study of Diabetes",
+          "acronym": "EASD",
+          "website": "https://easd.org"
+        },
+        {
+          "name": "European Association for the Study of Obesity",
+          "acronym": "EASO",
+          "website": "https://easo.org"
+        }
+      ],
+      "version": "2024",
+      "versionEnglish": "2024",
+      "publicationDate": "2024-06-07",
+      "previousVersion": "EASL–EASD–EASO Clinical Practice Guidelines for the management of non-alcoholic fatty liver disease (2016)",
+      "doi": "10.1016/j.jhep.2024.04.031",
+      "pmid": "38851997",
+      "officialUrl": "https://easl.eu/publication/easl-easd-easo-clinical-practice-guidelines-managment-of-metabolic-dysfunction-associated-steatotic-liver-disease/",
+      "fullTextUrl": null,
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://doi.org/10.1016/j.jhep.2024.04.031",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "official-landing",
+          "url": "https://easl.eu/publication/easl-easd-easo-clinical-practice-guidelines-managment-of-metabolic-dysfunction-associated-steatotic-liver-disease/",
+          "subscription": true
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://doi.org/10.1016/j.jhep.2024.04.031",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://karger.com/ofa/article/17/4/374/908875/EASL-EASD-EASO-Clinical-Practice-Guidelines-on-the",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1159/000541386",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://doi.org/10.1007/s00125-024-06196-3",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1007/s00125-024-06258-6",
+          "subscription": false
+        },
+        {
+          "type": "identity-record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38851997/",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/gastro-hepatology/#g-easl-masld-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/gastro-hepatology/#g-easl-masld-2024"
+    },
+    {
+      "id": "who-hbv-2024",
+      "title": "Guidelines for the prevention, diagnosis, care and treatment for people with chronic hepatitis B infection",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "GLOBAL",
+      "specialty": "Gastroenterology and hepatology",
+      "topic": "Chronic hepatitis B infection",
+      "topicGroup": "Chronic hepatitis B",
+      "organizations": [
+        {
+          "name": "World Health Organization",
+          "acronym": "WHO",
+          "website": "https://who.int"
+        }
+      ],
+      "version": "2024",
+      "versionEnglish": "2024",
+      "publicationDate": "2024-03-29",
+      "previousVersion": "Guidelines for the prevention, care and treatment of persons with chronic hepatitis B infection (2015)",
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://www.who.int/publications/i/item/9789240090903",
+      "fullTextUrl": "https://iris.who.int/server/api/core/bitstreams/34470cc8-af90-4d7b-a949-ef27e5d0726f/content",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://iris.who.int/server/api/core/bitstreams/34470cc8-af90-4d7b-a949-ef27e5d0726f/content",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://iris.who.int/server/api/core/bitstreams/34470cc8-af90-4d7b-a949-ef27e5d0726f/content",
+          "subscription": false
+        },
+        {
+          "type": "identity-record",
+          "url": "https://iris.who.int/handle/10665/376353",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://www.who.int/publications/i/item/9789240091368",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/gastro-hepatology/#g-who-hbv-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/gastro-hepatology/#g-who-hbv-2024"
+    },
+    {
+      "id": "kdigo-diabetes-ckd-2022",
+      "title": "KDIGO 2022 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "GLOBAL",
+      "specialty": "Nephrology",
+      "topic": "Diabetes management in chronic kidney disease",
+      "topicGroup": "Chronic kidney disease",
+      "organizations": [
+        {
+          "name": "Kidney Disease: Improving Global Outcomes",
+          "acronym": "KDIGO",
+          "website": "https://kdigo.org"
+        }
+      ],
+      "version": "2022",
+      "versionEnglish": "2022",
+      "publicationDate": "2022-11",
+      "previousVersion": "KDIGO 2020 Clinical Practice Guideline for Diabetes Management in Chronic Kidney Disease",
+      "doi": "10.1016/j.kint.2022.06.008",
+      "pmid": "36272764",
+      "officialUrl": "https://kdigo.org/guidelines/diabetes-ckd/",
+      "fullTextUrl": "https://kdigo.org/wp-content/uploads/2022/10/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://kdigo.org/wp-content/uploads/2022/10/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://kdigo.org/wp-content/uploads/2022/10/KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD.pdf",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://kdigo.org/wp-content/uploads/2022/10/Executive-Summary-KDIGO-2022-Clinical-Practice-Guideline-for-Diabetes-Management-in-CKD.pdf",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://doi.org/10.1016/j.kint.2022.06.008",
+          "subscription": true
+        },
+        {
+          "type": "identity-record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36272764/",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/nephrology/#g-kdigo-diabetes-ckd-2022",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/nephrology/#g-kdigo-diabetes-ckd-2022"
+    },
+    {
+      "id": "eau-sexual-reproductive-health-2026",
+      "title": "EAU Guidelines on Sexual and Reproductive Health (2026)",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "EU",
+      "specialty": "Andrology and reproductive medicine",
+      "topic": "Male sexual and reproductive health",
+      "topicGroup": "Male infertility and sexual health",
+      "organizations": [
+        {
+          "name": "European Association of Urology",
+          "acronym": "EAU",
+          "website": "https://uroweb.org"
+        }
+      ],
+      "version": "2026 (limited update, March 2026)",
+      "versionEnglish": "2026 (limited update, March 2026)",
+      "publicationDate": "2026-03",
+      "previousVersion": "EAU Guidelines on Sexual and Reproductive Health 2025",
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://uroweb.org/guidelines/sexual-and-reproductive-health",
+      "fullTextUrl": "https://d56bochluxqnz.cloudfront.net/documents/full-guideline/EAU-Guidelines-on-Sexual-and-Reproductive-Health-2026.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://d56bochluxqnz.cloudfront.net/documents/full-guideline/EAU-Guidelines-on-Sexual-and-Reproductive-Health-2026.pdf",
+      "previousVersionRelation": "updates",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://d56bochluxqnz.cloudfront.net/documents/full-guideline/EAU-Guidelines-on-Sexual-and-Reproductive-Health-2026.pdf",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://d56bochluxqnz.cloudfront.net/documents/pocket-guidelines/EAU-Pocket-on-Sexual-Reproductive-Health-2025_2026-03-12-154022_rkpr.pdf",
+          "subscription": false
+        },
+        {
+          "type": "official-landing",
+          "url": "https://uroweb.org/guidelines/sexual-and-reproductive-health/summary-of-changes",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/andrology/#g-eau-sexual-reproductive-health-2026",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/andrology/#g-eau-sexual-reproductive-health-2026"
+    },
+    {
+      "id": "monash-pcos-2023",
+      "title": "International Evidence-based Guideline for the Assessment and Management of Polycystic Ovary Syndrome 2023",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "GLOBAL",
+      "specialty": "Obstetrics, gynecology and reproductive endocrinology",
+      "topic": "Polycystic ovary syndrome (PCOS; renamed PMOS in 2026)",
+      "topicGroup": "Polycystic ovary syndrome",
+      "organizations": [
+        {
+          "name": "Monash University",
+          "acronym": "MCHRI",
+          "website": "https://monash.edu"
+        },
+        {
+          "name": "European Society of Human Reproduction and Embryology",
+          "acronym": "ESHRE",
+          "website": "https://eshre.eu"
+        },
+        {
+          "name": "American Society for Reproductive Medicine",
+          "acronym": "ASRM",
+          "website": "https://asrm.org"
+        },
+        {
+          "name": "Endocrine Society",
+          "acronym": null,
+          "website": "https://endocrine.org"
+        },
+        {
+          "name": "European Society of Endocrinology",
+          "acronym": "ESE",
+          "website": "https://ese-hormones.org"
+        }
+      ],
+      "version": "2023",
+      "versionEnglish": "2023",
+      "publicationDate": "2023-08-14",
+      "previousVersion": "International evidence-based guideline for the assessment and management of polycystic ovary syndrome 2018",
+      "doi": "10.26180/24003834",
+      "pmid": null,
+      "officialUrl": "https://www.monash.edu/medicine/mchri/pcos/guideline",
+      "fullTextUrl": "https://ndownloader.figshare.com/files/42290343",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://ndownloader.figshare.com/files/42290343",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://ndownloader.figshare.com/files/42290343",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://www.monash.edu/__data/assets/pdf_file/0009/4360095/Updated-PMOS-Guideline-12-June26.pdf",
+          "subscription": false
+        },
+        {
+          "type": "identity-record",
+          "url": "https://doi.org/10.26180/24003834",
+          "subscription": false
+        },
+        {
+          "type": "guideline-hub",
+          "url": "https://www.eshre.eu/Guidelines-and-Legal/Guidelines/Polycystic-Ovary-Syndrome",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://doi.org/10.1093/humrep/dead156",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://doi.org/10.1210/clinem/dgad463",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://doi.org/10.1093/ejendo/lvad096",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://doi.org/10.1016/j.fertnstert.2023.07.025",
+          "subscription": true
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/obstetrics-gynecology/#g-monash-pcos-2023",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/obstetrics-gynecology/#g-monash-pcos-2023"
+    },
+    {
+      "id": "nice-ng3-diabetes-pregnancy-2020",
+      "title": "Diabetes in pregnancy: management from preconception to the postnatal period (NICE guideline NG3)",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "UK",
+      "specialty": "Obstetrics, gynecology and reproductive endocrinology",
+      "topic": "Diabetes in pregnancy and gestational diabetes",
+      "topicGroup": "Diabetes and hyperglycemia in pregnancy",
+      "organizations": [
+        {
+          "name": "National Institute for Health and Care Excellence",
+          "acronym": "NICE",
+          "website": "https://nice.org.uk"
+        }
+      ],
+      "version": "NG3 (published 2015-02-25; last updated 2020-12-16)",
+      "versionEnglish": "NG3 (published 2015-02-25; last updated 2020-12-16)",
+      "publicationDate": "2020-12-16",
+      "previousVersion": "NICE NG3 original version (February 2015), which replaced CG63 (2008)",
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://www.nice.org.uk/guidance/ng3",
+      "fullTextUrl": "https://www.nice.org.uk/guidance/ng3/resources/diabetes-in-pregnancy-management-from-preconception-to-the-postnatal-period-pdf-51038446021",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://www.nice.org.uk/guidance/ng3/resources/diabetes-in-pregnancy-management-from-preconception-to-the-postnatal-period-pdf-51038446021",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://www.nice.org.uk/guidance/ng3/resources/diabetes-in-pregnancy-management-from-preconception-to-the-postnatal-period-pdf-51038446021",
+          "subscription": false
+        },
+        {
+          "type": "official-landing",
+          "url": "https://www.nice.org.uk/guidance/ng3",
+          "subscription": false
+        },
+        {
+          "type": "guideline-hub",
+          "url": "https://www.nice.org.uk/guidance/indevelopment/gid-ng10450",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/obstetrics-gynecology/#g-nice-ng3-diabetes-pregnancy-2020",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/obstetrics-gynecology/#g-nice-ng3-diabetes-pregnancy-2020"
+    },
+    {
+      "id": "acr-gout-2020",
+      "title": "2020 American College of Rheumatology Guideline for the Management of Gout",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "US",
+      "specialty": "Rheumatology",
+      "topic": "Gout",
+      "topicGroup": "Gout and hyperuricemia",
+      "organizations": [
+        {
+          "name": "American College of Rheumatology",
+          "acronym": "ACR",
+          "website": "https://rheumatology.org"
+        }
+      ],
+      "version": "2020",
+      "versionEnglish": "2020",
+      "publicationDate": "2020-05-11",
+      "previousVersion": "2012 American College of Rheumatology Guidelines for Management of Gout (Parts 1 and 2)",
+      "doi": "10.1002/acr.24180",
+      "pmid": "32391934",
+      "officialUrl": "https://rheumatology.org/gout-guideline",
+      "fullTextUrl": "https://assets.contentstack.io/v3/assets/bltee37abb6b278ab2c/blt04d52e3b6ff5112f/632cab5b258fb55f6b2186af/gout-guideline-2020.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://assets.contentstack.io/v3/assets/bltee37abb6b278ab2c/blt04d52e3b6ff5112f/632cab5b258fb55f6b2186af/gout-guideline-2020.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-09",
+      "nextCheckDue": "2027-01-07",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://assets.contentstack.io/v3/assets/bltee37abb6b278ab2c/blt04d52e3b6ff5112f/632cab5b258fb55f6b2186af/gout-guideline-2020.pdf",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://doi.org/10.1002/acr.24180",
+          "subscription": true
+        },
+        {
+          "type": "journal-version",
+          "url": "https://doi.org/10.1002/art.41247",
+          "subscription": true
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1002/acr.24401",
+          "subscription": true
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1002/acr.24566",
+          "subscription": true
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1002/art.41688",
+          "subscription": true
+        },
+        {
+          "type": "identity-record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32391934/",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/rheumatology/#g-acr-gout-2020",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/rheumatology/#g-acr-gout-2020"
+    },
+    {
+      "id": "cn-osteoarthritis-2021",
+      "title": "中国骨关节炎诊疗指南（2021年版）",
+      "titleEnglish": "Chinese Guideline for the Diagnosis and Treatment of Osteoarthritis (2021 edition)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Orthopaedics",
+      "topic": "Osteoarthritis",
+      "topicGroup": "Osteoarthritis",
+      "organizations": [
+        {
+          "name": "中华医学会骨科学分会",
+          "acronym": "COA",
+          "website": "https://cma.org.cn"
+        },
+        {
+          "name": "中国医师协会骨科医师分会",
+          "acronym": "CAOS",
+          "website": "https://cmda.net"
+        }
+      ],
+      "version": "2021年版",
+      "versionEnglish": "2021 edition",
+      "publicationDate": "2021-09-16",
+      "previousVersion": "骨关节炎诊疗指南（2018年版）",
+      "doi": "10.3760/cma.j.cn121113-20210624-00424",
+      "pmid": null,
+      "officialUrl": "https://rs.yiigle.com/cmaid/1336682",
+      "fullTextUrl": "https://rs.yiigle.com/cmaid/1336682",
+      "fullTextAccess": "may-need-access",
+      "fullTextFormat": null,
+      "fullTextLink": "https://rs.yiigle.com/cmaid/1336682",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1336682",
+          "subscription": true
+        },
+        {
+          "type": "identity-record",
+          "url": "https://doi.org/10.3760/cma.j.cn121113-20210624-00424",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/orthopaedics/#g-cn-osteoarthritis-2021",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/orthopaedics/#g-cn-osteoarthritis-2021"
+    },
+    {
+      "id": "cn-geriatric-hip-fracture-2022",
+      "title": "老年髋部骨折诊疗与管理指南（2022年版）",
+      "titleEnglish": "Guideline for the Diagnosis, Treatment and Management of Hip Fractures in Older Adults (2022 edition)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Orthopaedics",
+      "topic": "Hip fractures in older adults",
+      "topicGroup": "Hip fractures in older adults",
+      "organizations": [
+        {
+          "name": "中华人民共和国国家卫生健康委员会",
+          "acronym": "NHC",
+          "website": "https://nhc.gov.cn"
+        }
+      ],
+      "version": "2022年版",
+      "versionEnglish": "2022 edition",
+      "publicationDate": "2022-12-30",
+      "previousVersion": null,
+      "doi": "10.19548/j.2096-269x.2023.02.003",
+      "pmid": null,
+      "officialUrl": "https://www.nhc.gov.cn/yzygj/c100068/202212/07dc9155b03c41ce9482bea34e643a6d.shtml",
+      "fullTextUrl": null,
+      "fullTextAccess": "free",
+      "fullTextFormat": "word",
+      "fullTextLink": "https://www.nhc.gov.cn/yzygj/c100068/202212/07dc9155b03c41ce9482bea34e643a6d/files/1732871285648_93828.docx",
+      "previousVersionRelation": null,
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "official-landing",
+          "url": "https://www.nhc.gov.cn/yzygj/c100068/202212/07dc9155b03c41ce9482bea34e643a6d.shtml",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://cjournal.hep.com.cn/2096-269X/CN/10.19548/j.2096-269x.2023.02.003",
+          "subscription": false
+        },
+        {
+          "type": "identity-record",
+          "url": "https://doi.org/10.19548/j.2096-269x.2023.02.003",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://www.nhc.gov.cn/yzygj/c100068/202212/07dc9155b03c41ce9482bea34e643a6d/files/1732871285648_93828.docx",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/orthopaedics/#g-cn-geriatric-hip-fracture-2022",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/orthopaedics/#g-cn-geriatric-hip-fracture-2022"
+    },
+    {
+      "id": "cn-osteoporotic-fracture-2022",
+      "title": "骨质疏松性骨折诊疗指南（2022年版）",
+      "titleEnglish": "Guideline for the Diagnosis and Treatment of Osteoporotic Fractures (2022 edition)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Orthopaedics",
+      "topic": "Osteoporotic fractures",
+      "topicGroup": "Osteoporotic fractures",
+      "organizations": [
+        {
+          "name": "中华医学会骨科学分会",
+          "acronym": "COA",
+          "website": "https://cma.org.cn"
+        }
+      ],
+      "version": "2022年版",
+      "versionEnglish": "2022 edition",
+      "publicationDate": "2022-11-16",
+      "previousVersion": "骨质疏松性骨折诊疗指南（2017年版）",
+      "doi": "10.3760/cma.j.cn121113-20220704-00377",
+      "pmid": null,
+      "officialUrl": "https://rs.yiigle.com/cmaid/1434550",
+      "fullTextUrl": "https://rs.yiigle.com/cmaid/1434550",
+      "fullTextAccess": "may-need-access",
+      "fullTextFormat": null,
+      "fullTextLink": "https://rs.yiigle.com/cmaid/1434550",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1434550",
+          "subscription": true
+        },
+        {
+          "type": "identity-record",
+          "url": "https://doi.org/10.3760/cma.j.cn121113-20220704-00377",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/orthopaedics/#g-cn-osteoporotic-fracture-2022",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/orthopaedics/#g-cn-osteoporotic-fracture-2022"
+    },
+    {
+      "id": "cn-orthopedic-vte-prophylaxis-2016",
+      "title": "中国骨科大手术静脉血栓栓塞症预防指南",
+      "titleEnglish": "Chinese Guideline for the Prevention of Venous Thromboembolism in Major Orthopaedic Surgery (2016)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Orthopaedics",
+      "topic": "Venous thromboembolism prevention in major orthopaedic surgery",
+      "topicGroup": "Venous thromboembolism prevention in surgery",
+      "organizations": [
+        {
+          "name": "中华医学会骨科学分会",
+          "acronym": "COA",
+          "website": "https://cma.org.cn"
+        }
+      ],
+      "version": "2016",
+      "versionEnglish": "2016",
+      "publicationDate": "2016-01-16",
+      "previousVersion": "中国骨科大手术静脉血栓栓塞症预防指南（2009版）",
+      "doi": "10.3760/cma.j.issn.0253-2352.2016.02.001",
+      "pmid": null,
+      "officialUrl": "https://rs.yiigle.com/cmaid/863610",
+      "fullTextUrl": "https://rs.yiigle.com/cmaid/863610",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://master.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E9%AA%A8%E7%A7%91%E5%A4%A7%E6%89%8B%E6%9C%AF%E9%9D%99%E8%84%89%E8%A1%80%E6%A0%93%E6%A0%93%E5%A1%9E%E7%97%87%E9%A2%84%E9%98%B2%E6%8C%87%E5%8D%97.html",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/863610",
+          "subscription": true
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://master.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E9%AA%A8%E7%A7%91%E5%A4%A7%E6%89%8B%E6%9C%AF%E9%9D%99%E8%84%89%E8%A1%80%E6%A0%93%E6%A0%93%E5%A1%9E%E7%97%87%E9%A2%84%E9%98%B2%E6%8C%87%E5%8D%97.html",
+          "subscription": false
+        },
+        {
+          "type": "identity-record",
+          "url": "https://doi.org/10.3760/cma.j.issn.0253-2352.2016.02.001",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/orthopaedics/#g-cn-orthopedic-vte-prophylaxis-2016",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/orthopaedics/#g-cn-orthopedic-vte-prophylaxis-2016"
+    },
+    {
+      "id": "cn-lumbar-disc-herniation-2020",
+      "title": "腰椎间盘突出症诊疗指南",
+      "titleEnglish": "Guideline for the Diagnosis and Treatment of Lumbar Disc Herniation (2020)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Orthopaedics",
+      "topic": "Lumbar disc herniation",
+      "topicGroup": "Low back pain and lumbar disc herniation",
+      "organizations": [
+        {
+          "name": "中华医学会骨科学分会",
+          "acronym": "COA",
+          "website": "https://cma.org.cn"
+        }
+      ],
+      "version": "2020",
+      "versionEnglish": "2020",
+      "publicationDate": "2020-04-16",
+      "previousVersion": null,
+      "doi": "10.3760/cma.j.cn121113-20200402-00213",
+      "pmid": null,
+      "officialUrl": "https://rs.yiigle.com/cmaid/1190693",
+      "fullTextUrl": "https://rs.yiigle.com/cmaid/1190693",
+      "fullTextAccess": "may-need-access",
+      "fullTextFormat": null,
+      "fullTextLink": "https://rs.yiigle.com/cmaid/1190693",
+      "previousVersionRelation": null,
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1190693",
+          "subscription": true
+        },
+        {
+          "type": "identity-record",
+          "url": "https://doi.org/10.3760/cma.j.cn121113-20200402-00213",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/orthopaedics/#g-cn-lumbar-disc-herniation-2020",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/orthopaedics/#g-cn-lumbar-disc-herniation-2020"
+    },
+    {
+      "id": "cn-onfh-2020",
+      "title": "中国成人股骨头坏死临床诊疗指南（2020）",
+      "titleEnglish": "Chinese Guideline for the Clinical Diagnosis and Treatment of Osteonecrosis of the Femoral Head in Adults (2020)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Orthopaedics",
+      "topic": "Osteonecrosis of the femoral head in adults",
+      "topicGroup": "Osteonecrosis of the femoral head",
+      "organizations": [
+        {
+          "name": "中国医师协会骨科医师分会",
+          "acronym": "CAOS",
+          "website": "https://cmda.net"
+        },
+        {
+          "name": "中华医学会骨科学分会",
+          "acronym": "COA",
+          "website": "https://cma.org.cn"
+        }
+      ],
+      "version": "2020",
+      "versionEnglish": "2020",
+      "publicationDate": "2020-10-16",
+      "previousVersion": "成人股骨头坏死临床诊疗指南（2016）",
+      "doi": "10.3760/cma.j.cn121113-20200306-00133",
+      "pmid": null,
+      "officialUrl": "https://rs.yiigle.com/cmaid/1251047",
+      "fullTextUrl": "https://rs.yiigle.com/cmaid/1251047",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://master.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E8%82%A1%E9%AA%A8%E5%A4%B4%E5%9D%8F%E6%AD%BB%E4%B8%B4%E5%BA%8A%E8%AF%8A%E7%96%97%E6%8C%87%E5%8D%97%EF%BC%882020%EF%BC%89.html",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1251047",
+          "subscription": true
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://master.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E8%82%A1%E9%AA%A8%E5%A4%B4%E5%9D%8F%E6%AD%BB%E4%B8%B4%E5%BA%8A%E8%AF%8A%E7%96%97%E6%8C%87%E5%8D%97%EF%BC%882020%EF%BC%89.html",
+          "subscription": false
+        },
+        {
+          "type": "identity-record",
+          "url": "https://doi.org/10.3760/cma.j.cn121113-20200306-00133",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/orthopaedics/#g-cn-onfh-2020",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/orthopaedics/#g-cn-onfh-2020"
+    },
+    {
+      "id": "nice-ng226-osteoarthritis-2022",
+      "title": "Osteoarthritis in over 16s: diagnosis and management (NICE guideline NG226)",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "UK",
+      "specialty": "Orthopaedics",
+      "topic": "Osteoarthritis (diagnosis and non-surgical management)",
+      "topicGroup": "Osteoarthritis",
+      "organizations": [
+        {
+          "name": "National Institute for Health and Care Excellence",
+          "acronym": "NICE",
+          "website": "https://nice.org.uk"
+        }
+      ],
+      "version": "2022",
+      "versionEnglish": "2022",
+      "publicationDate": "2022-10-19",
+      "previousVersion": "Osteoarthritis: care and management (NICE clinical guideline CG177)",
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://www.nice.org.uk/guidance/ng226",
+      "fullTextUrl": "https://www.nice.org.uk/guidance/ng226/resources/osteoarthritis-in-over-16s-diagnosis-and-management-pdf-66143839026373",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://www.nice.org.uk/guidance/ng226/resources/osteoarthritis-in-over-16s-diagnosis-and-management-pdf-66143839026373",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "official-landing",
+          "url": "https://www.nice.org.uk/guidance/ng226",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://www.nice.org.uk/guidance/ng226/resources/osteoarthritis-in-over-16s-diagnosis-and-management-pdf-66143839026373",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://www.nice.org.uk/guidance/ng226/resources/visual-summary-on-the-management-of-osteoarthritis-pdf-11251842157",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/orthopaedics/#g-nice-ng226-osteoarthritis-2022",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/orthopaedics/#g-nice-ng226-osteoarthritis-2022"
+    },
+    {
+      "id": "nice-ng59-low-back-pain-2016",
+      "title": "Low back pain and sciatica in over 16s: assessment and management (NICE guideline NG59)",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "UK",
+      "specialty": "Orthopaedics",
+      "topic": "Low back pain and sciatica",
+      "topicGroup": "Low back pain and lumbar disc herniation",
+      "organizations": [
+        {
+          "name": "National Institute for Health and Care Excellence",
+          "acronym": "NICE",
+          "website": "https://nice.org.uk"
+        }
+      ],
+      "version": "2016 (last updated 2026-07-29)",
+      "versionEnglish": "2016 (last updated 2026-07-29)",
+      "publicationDate": "2016-11-30",
+      "previousVersion": "Low back pain in adults: early management (NICE clinical guideline CG88)",
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://www.nice.org.uk/guidance/ng59",
+      "fullTextUrl": "https://www.nice.org.uk/guidance/ng59/resources/low-back-pain-and-sciatica-in-over-16s-assessment-and-management-pdf-1837521693637",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://www.nice.org.uk/guidance/ng59/resources/low-back-pain-and-sciatica-in-over-16s-assessment-and-management-pdf-1837521693637",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "official-landing",
+          "url": "https://www.nice.org.uk/guidance/ng59",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://www.nice.org.uk/guidance/ng59/resources/low-back-pain-and-sciatica-in-over-16s-assessment-and-management-pdf-1837521693637",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://www.nice.org.uk/guidance/ng59/chapter/Update-information",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/orthopaedics/#g-nice-ng59-low-back-pain-2016",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/orthopaedics/#g-nice-ng59-low-back-pain-2016"
+    },
+    {
+      "id": "aaos-knee-oa-2021",
+      "title": "Management of Osteoarthritis of the Knee (Non-Arthroplasty) Evidence-Based Clinical Practice Guideline (3rd edition)",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "US",
+      "specialty": "Orthopaedics",
+      "topic": "Knee osteoarthritis (non-arthroplasty management)",
+      "topicGroup": "Osteoarthritis",
+      "organizations": [
+        {
+          "name": "American Academy of Orthopaedic Surgeons",
+          "acronym": "AAOS",
+          "website": "https://aaos.org"
+        }
+      ],
+      "version": "3rd edition (2021)",
+      "versionEnglish": "3rd edition (2021)",
+      "publicationDate": "2021-08-31",
+      "previousVersion": "Treatment of Osteoarthritis of the Knee (Non-Arthroplasty) 2nd edition (2013)",
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://www.aaos.org/quality/quality-programs/osteoarthritis-of-the-knee/",
+      "fullTextUrl": "https://www.aaos.org/globalassets/quality-and-practice-resources/osteoarthritis-of-the-knee/oak3cpg.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://www.aaos.org/globalassets/quality-and-practice-resources/osteoarthritis-of-the-knee/oak3cpg.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "official-landing",
+          "url": "https://www.aaos.org/quality/quality-programs/osteoarthritis-of-the-knee/",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://www.aaos.org/globalassets/quality-and-practice-resources/osteoarthritis-of-the-knee/oak3cpg.pdf",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://doi.org/10.5435/JAAOS-D-21-01233",
+          "subscription": true
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.5435/JAAOS-D-26-00719",
+          "subscription": true
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/orthopaedics/#g-aaos-knee-oa-2021",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/orthopaedics/#g-aaos-knee-oa-2021"
+    },
+    {
+      "id": "aaos-hip-fracture-2021",
+      "title": "Management of Hip Fractures in Older Adults Evidence-Based Clinical Practice Guideline",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "US",
+      "specialty": "Orthopaedics",
+      "topic": "Hip fractures in older adults",
+      "topicGroup": "Hip fractures in older adults",
+      "organizations": [
+        {
+          "name": "American Academy of Orthopaedic Surgeons",
+          "acronym": "AAOS",
+          "website": "https://aaos.org"
+        }
+      ],
+      "version": "2021",
+      "versionEnglish": "2021",
+      "publicationDate": "2021-12-03",
+      "previousVersion": "Management of Hip Fractures in the Elderly Evidence-Based Clinical Practice Guideline (1st edition, 2014)",
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://www.aaos.org/quality/quality-programs/hip-fractures-in-older-adults/",
+      "fullTextUrl": "https://www.aaos.org/globalassets/quality-and-practice-resources/hip-fractures-in-the-elderly/hipfxcpg.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://www.aaos.org/globalassets/quality-and-practice-resources/hip-fractures-in-the-elderly/hipfxcpg.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "official-landing",
+          "url": "https://www.aaos.org/quality/quality-programs/hip-fractures-in-older-adults/",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://www.aaos.org/globalassets/quality-and-practice-resources/hip-fractures-in-the-elderly/hipfxcpg.pdf",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://doi.org/10.5435/JAAOS-D-22-00125",
+          "subscription": true
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/orthopaedics/#g-aaos-hip-fracture-2021",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/orthopaedics/#g-aaos-hip-fracture-2021"
+    },
+    {
+      "id": "acr-osteoarthritis-2026",
+      "title": "2026 Update of the American College of Rheumatology Recommendations for the Management of Osteoarthritis of the Knee, Hip, and Hand",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "US",
+      "specialty": "Orthopaedics",
+      "topic": "Osteoarthritis of the knee, hip, and hand",
+      "topicGroup": "Osteoarthritis",
+      "organizations": [
+        {
+          "name": "American College of Rheumatology",
+          "acronym": "ACR",
+          "website": "https://rheumatology.org"
+        }
+      ],
+      "version": "2026 (guideline summary; full manuscript pending)",
+      "versionEnglish": "2026 (guideline summary; full manuscript pending)",
+      "publicationDate": "2026-09-14",
+      "previousVersion": "2019 American College of Rheumatology/Arthritis Foundation Guideline for the Management of Osteoarthritis of the Hand, Hip, and Knee",
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://rheumatology.org/osteoarthritis-guideline",
+      "fullTextUrl": null,
+      "fullTextAccess": "summary-only",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://assets.contentstack.io/v3/assets/bltee37abb6b278ab2c/bltb3d12c34020da842/oa-guideline-summary-2026.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2026-12-16",
+      "links": [
+        {
+          "type": "official-landing",
+          "url": "https://rheumatology.org/osteoarthritis-guideline",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://assets.contentstack.io/v3/assets/bltee37abb6b278ab2c/bltb3d12c34020da842/oa-guideline-summary-2026.pdf",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/acr-osteoarthritis/",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/acr-osteoarthritis/"
+    },
+    {
+      "id": "aaos-acl-2022",
+      "title": "Management of Anterior Cruciate Ligament Injuries Evidence-Based Clinical Practice Guideline",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "US",
+      "specialty": "Orthopaedics",
+      "topic": "Anterior cruciate ligament injuries",
+      "topicGroup": "Anterior cruciate ligament injuries",
+      "organizations": [
+        {
+          "name": "American Academy of Orthopaedic Surgeons",
+          "acronym": "AAOS",
+          "website": "https://aaos.org"
+        }
+      ],
+      "version": "2022",
+      "versionEnglish": "2022",
+      "publicationDate": "2022-08-22",
+      "previousVersion": "Management of Anterior Cruciate Ligament Injuries Evidence-Based Clinical Practice Guideline (2014)",
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://www.aaos.org/quality/quality-programs/anterior-cruciate-ligament-injuries/",
+      "fullTextUrl": "https://www.aaos.org/globalassets/quality-and-practice-resources/anterior-cruciate-ligament-injuries/aclcpg.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://www.aaos.org/globalassets/quality-and-practice-resources/anterior-cruciate-ligament-injuries/aclcpg.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "official-landing",
+          "url": "https://www.aaos.org/quality/quality-programs/anterior-cruciate-ligament-injuries/",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://www.aaos.org/globalassets/quality-and-practice-resources/anterior-cruciate-ligament-injuries/aclcpg.pdf",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://doi.org/10.5435/JAAOS-D-22-01020",
+          "subscription": true
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/orthopaedics/#g-aaos-acl-2022",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/orthopaedics/#g-aaos-acl-2022"
+    },
+    {
+      "id": "aaos-rotator-cuff-2025",
+      "title": "Management of Rotator Cuff Injuries Evidence-Based Clinical Practice Guideline",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "US",
+      "specialty": "Orthopaedics",
+      "topic": "Rotator cuff injuries in adults",
+      "topicGroup": "Rotator cuff injuries",
+      "organizations": [
+        {
+          "name": "American Academy of Orthopaedic Surgeons",
+          "acronym": "AAOS",
+          "website": "https://aaos.org"
+        }
+      ],
+      "version": "2025",
+      "versionEnglish": "2025",
+      "publicationDate": "2025-08-18",
+      "previousVersion": "Management of Rotator Cuff Injuries Evidence-Based Clinical Practice Guideline (2019)",
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://www.aaos.org/quality/quality-programs/rotator-cuff/",
+      "fullTextUrl": "https://www.aaos.org/globalassets/quality-and-practice-resources/rotator-cuff/rotator-cuff-2025/rotator-cuff-cpg.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://www.aaos.org/globalassets/quality-and-practice-resources/rotator-cuff/rotator-cuff-2025/rotator-cuff-cpg.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "official-landing",
+          "url": "https://www.aaos.org/quality/quality-programs/rotator-cuff/",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://www.aaos.org/globalassets/quality-and-practice-resources/rotator-cuff/rotator-cuff-2025/rotator-cuff-cpg.pdf",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/orthopaedics/#g-aaos-rotator-cuff-2025",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/orthopaedics/#g-aaos-rotator-cuff-2025"
+    },
+    {
+      "id": "acp-osteoporosis-2023",
+      "title": "Pharmacologic Treatment of Primary Osteoporosis or Low Bone Mass to Prevent Fractures in Adults: A Living Clinical Guideline From the American College of Physicians",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "US",
+      "specialty": "Endocrinology, diabetes and bone metabolism",
+      "topic": "Pharmacologic treatment of primary osteoporosis or low bone mass",
+      "topicGroup": "Osteoporosis",
+      "organizations": [
+        {
+          "name": "American College of Physicians",
+          "acronym": "ACP",
+          "website": "https://acponline.org"
+        }
+      ],
+      "version": "Version 1 (2023; living, Update Alert 2 2026-09)",
+      "versionEnglish": "Version 1 (2023; living, Update Alert 2 2026-09)",
+      "publicationDate": "2023-01-03",
+      "previousVersion": "Treatment of Low Bone Density or Osteoporosis to Prevent Fractures in Men and Women: A Clinical Practice Guideline Update From the American College of Physicians (2017)",
+      "doi": "10.7326/M22-1034",
+      "pmid": "36592456",
+      "officialUrl": "https://www.acponline.org/clinical-information/clinical-guidelines-recommendations",
+      "fullTextUrl": "https://www.acpjournals.org/doi/10.7326/M22-1034",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://www.acpjournals.org/doi/10.7326/M22-1034",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "guideline-hub",
+          "url": "https://www.acponline.org/clinical-information/clinical-guidelines-recommendations",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://www.acpjournals.org/doi/10.7326/M22-1034",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://doi.org/10.7326/L24-0113",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://doi.org/10.7326/ANNALS-24-03547",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://doi.org/10.7326/ANNALS-26-02740",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://www.acponline.org/sites/default/files/acp-policy-library/guidelines/pharmacologic_treatment_of_primary_osteoporosis_to_prevent_fractures_in_adults_2023.pdf",
+          "subscription": false
+        },
+        {
+          "type": "identity-record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36592456/",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/endocrinology/#g-acp-osteoporosis-2023",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/endocrinology/#g-acp-osteoporosis-2023"
+    },
+    {
+      "id": "ash-vte-surgical-2019",
+      "title": "American Society of Hematology 2019 guidelines for management of venous thromboembolism: prevention of venous thromboembolism in surgical hospitalized patients",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "US",
+      "specialty": "Orthopaedics",
+      "topic": "VTE prophylaxis in surgical hospitalized patients (including major orthopaedic surgery)",
+      "topicGroup": "Venous thromboembolism prevention in surgery",
+      "organizations": [
+        {
+          "name": "American Society of Hematology",
+          "acronym": "ASH",
+          "website": "https://hematology.org"
+        }
+      ],
+      "version": "2019",
+      "versionEnglish": "2019",
+      "publicationDate": "2019-12-03",
+      "previousVersion": null,
+      "doi": "10.1182/bloodadvances.2019000975",
+      "pmid": "31794602",
+      "officialUrl": "https://www.hematology.org/education/clinicians/guidelines-and-quality-care/clinical-practice-guidelines/venous-thromboembolism-guidelines/prevention-in-hospitalized-surgical-patients",
+      "fullTextUrl": "https://ashpublications.org/bloodadvances/article/3/23/3898/429211",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://ashpublications.org/bloodadvances/article/3/23/3898/429211",
+      "previousVersionRelation": null,
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "guideline-hub",
+          "url": "https://www.hematology.org/education/clinicians/guidelines-and-quality-care/clinical-practice-guidelines/venous-thromboembolism-guidelines",
+          "subscription": false
+        },
+        {
+          "type": "official-landing",
+          "url": "https://www.hematology.org/education/clinicians/guidelines-and-quality-care/clinical-practice-guidelines/venous-thromboembolism-guidelines/prevention-in-hospitalized-surgical-patients",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://ashpublications.org/bloodadvances/article/3/23/3898/429211",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6963238/",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://www.hematology.org/-/media/hematology/files/clinicians/guidelines/vte/2019ash_clinical_practice_guidelines_vte_snapshot_surgical.pdf",
+          "subscription": false
+        },
+        {
+          "type": "identity-record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31794602/",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/orthopaedics/#g-ash-vte-surgical-2019",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/orthopaedics/#g-ash-vte-surgical-2019"
+    },
+    {
+      "id": "ssc-pediatric-sepsis-2026",
+      "title": "Surviving Sepsis Campaign International Guidelines for the Management of Sepsis and Septic Shock in Children 2026",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "GLOBAL",
+      "specialty": "Critical care and emergency medicine",
+      "topic": "Sepsis and septic shock in children",
+      "topicGroup": "Sepsis and septic shock in children",
+      "organizations": [
+        {
+          "name": "Society of Critical Care Medicine",
+          "acronym": "SCCM",
+          "website": "https://sccm.org"
+        },
+        {
+          "name": "European Society of Intensive Care Medicine",
+          "acronym": "ESICM",
+          "website": "https://esicm.org"
+        }
+      ],
+      "version": "2026",
+      "versionEnglish": "2026",
+      "publicationDate": "2026-03-23",
+      "previousVersion": "Surviving Sepsis Campaign International Guidelines for the Management of Septic Shock and Sepsis-Associated Organ Dysfunction in Children (2020)",
+      "doi": "10.1097/PCC.0000000000003927",
+      "pmid": "41869844",
+      "officialUrl": "https://www.sccm.org/survivingsepsiscampaign/guidelines-and-resources/surviving-sepsis-campaign-pediatric-guidelines",
+      "fullTextUrl": "https://journals.lww.com/10.1097/PCC.0000000000003927",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://journals.lww.com/10.1097/PCC.0000000000003927",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "guideline-hub",
+          "url": "https://www.sccm.org/clinical-resources/guidelines/guidelines/surviving-sepsis-campaign-international-guidelines-for-the-management-of-sepsis-and-septic-shock-in",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://journals.lww.com/10.1097/PCC.0000000000003927",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://link.springer.com/article/10.1007/s00134-026-08360-2",
+          "subscription": true
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://journals.lww.com/pccmjournal/10.1097/PCC.0000000000003928",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://sccm.org/SCCM/media/SCCM/PDFs/SSC-Children-Quick-Guide-Infographic-2026.pdf",
+          "subscription": false
+        },
+        {
+          "type": "identity-record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/41869844/",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/surviving-sepsis-campaign-children/",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/surviving-sepsis-campaign-children/"
+    },
+    {
+      "id": "sccm-phoenix-pediatric-sepsis-2024",
+      "title": "International Consensus Criteria for Pediatric Sepsis and Septic Shock",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "GLOBAL",
+      "specialty": "Critical care and emergency medicine",
+      "topic": "Definition and diagnostic criteria for pediatric sepsis",
+      "topicGroup": "Sepsis and septic shock in children",
+      "organizations": [
+        {
+          "name": "Society of Critical Care Medicine",
+          "acronym": "SCCM",
+          "website": "https://sccm.org"
+        }
+      ],
+      "version": "2024",
+      "versionEnglish": "2024",
+      "publicationDate": "2024-01-21",
+      "previousVersion": "International pediatric sepsis consensus conference: Definitions for sepsis and organ dysfunction in pediatrics",
+      "doi": "10.1001/jama.2024.0179",
+      "pmid": "38245889",
+      "officialUrl": "https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2024.0179",
+      "fullTextUrl": "https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2024.0179",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10900966/",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://jamanetwork.com/journals/jama/fullarticle/10.1001/jama.2024.0179",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10900966/",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://doi.org/10.1001/jama.2024.0196",
+          "subscription": false
+        },
+        {
+          "type": "identity-record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38245889/",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/critical-care/#g-sccm-phoenix-pediatric-sepsis-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/critical-care/#g-sccm-phoenix-pediatric-sepsis-2024"
+    },
+    {
+      "id": "cn-sepsis-emergency-2018",
+      "title": "中国脓毒症/脓毒性休克急诊治疗指南（2018）",
+      "titleEnglish": "Chinese Guidelines for the Emergency Management of Sepsis and Septic Shock (2018)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Critical care and emergency medicine",
+      "topic": "Sepsis and septic shock in adults (emergency care)",
+      "topicGroup": "Sepsis and septic shock in adults",
+      "organizations": [
+        {
+          "name": "中国医师协会急诊医师分会",
+          "acronym": "CCEP",
+          "website": "https://cmda.net"
+        },
+        {
+          "name": "中国研究型医院学会休克与脓毒症专业委员会",
+          "acronym": null,
+          "website": "https://crha.cn"
+        }
+      ],
+      "version": "2018",
+      "versionEnglish": "2018",
+      "publicationDate": "2018-09",
+      "previousVersion": null,
+      "doi": "10.13201/j.issn.1009-5918.2018.09.001",
+      "pmid": null,
+      "officialUrl": "https://lcjz.whuhzzs.com/article/doi/10.13201/j.issn.1009-5918.2018.09.001",
+      "fullTextUrl": "https://www.whuhzzs.com/data/article/lcjz/preview/pdf/20180901.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://www.whuhzzs.com/data/article/lcjz/preview/pdf/20180901.pdf",
+      "previousVersionRelation": null,
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://lcjz.whuhzzs.com/article/doi/10.13201/j.issn.1009-5918.2018.09.001",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://www.whuhzzs.com/data/article/lcjz/preview/pdf/20180901.pdf",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/critical-care/#g-cn-sepsis-emergency-2018",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/critical-care/#g-cn-sepsis-emergency-2018"
+    },
+    {
+      "id": "cn-pediatric-septic-shock-2025",
+      "title": "儿童脓毒性休克管理专家共识（2025）",
+      "titleEnglish": "Expert Consensus on the Management of Septic Shock in Children (2025)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Critical care and emergency medicine",
+      "topic": "Septic shock in children",
+      "topicGroup": "Sepsis and septic shock in children",
+      "organizations": [
+        {
+          "name": "中华医学会儿科学分会急救学组",
+          "acronym": null,
+          "website": "https://cma.org.cn"
+        },
+        {
+          "name": "中华医学会急诊医学分会儿科学组",
+          "acronym": null,
+          "website": "https://cma.org.cn"
+        },
+        {
+          "name": "中华儿科杂志编辑部",
+          "acronym": null,
+          "website": "https://yiigle.com"
+        }
+      ],
+      "version": "2025",
+      "versionEnglish": "2025",
+      "publicationDate": "2025-03-02",
+      "previousVersion": "儿童脓毒性休克(感染性休克)诊治专家共识(2015版)",
+      "doi": "10.3760/cma.j.cn112140-20241106-00794",
+      "pmid": "39979095",
+      "officialUrl": "https://rs.yiigle.com/cmaid/1530705",
+      "fullTextUrl": "https://rs.yiigle.com/cmaid/1530705",
+      "fullTextAccess": "may-need-access",
+      "fullTextFormat": null,
+      "fullTextLink": "https://rs.yiigle.com/cmaid/1530705",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1530705",
+          "subscription": true
+        },
+        {
+          "type": "identity-record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39979095/",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/critical-care/#g-cn-pediatric-septic-shock-2025",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/critical-care/#g-cn-pediatric-septic-shock-2025"
+    },
+    {
+      "id": "cn-cap-2016",
+      "title": "中国成人社区获得性肺炎诊断和治疗指南（2016年版）",
+      "titleEnglish": "Guidelines for the Diagnosis and Treatment of Community-Acquired Pneumonia in Chinese Adults (2016 edition)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Respiratory medicine",
+      "topic": "Community-acquired pneumonia in adults",
+      "topicGroup": "Community-acquired pneumonia",
+      "organizations": [
+        {
+          "name": "中华医学会呼吸病学分会",
+          "acronym": "CTS",
+          "website": "https://cma.org.cn"
+        }
+      ],
+      "version": "2016",
+      "versionEnglish": "2016",
+      "publicationDate": "2016-04-12",
+      "previousVersion": "社区获得性肺炎诊断和治疗指南（2006）",
+      "doi": "10.3760/cma.j.issn.1001-0939.2016.04.005",
+      "pmid": null,
+      "officialUrl": "https://rs.yiigle.com/cmaid/890781",
+      "fullTextUrl": "https://master.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E7%A4%BE%E5%8C%BA%E8%8E%B7%E5%BE%97%E6%80%A7%E8%82%BA%E7%82%8E%E8%AF%8A%E6%96%AD%E5%92%8C%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97%282016%E5%B9%B4%E7%89%88%29.html",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://master.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E7%A4%BE%E5%8C%BA%E8%8E%B7%E5%BE%97%E6%80%A7%E8%82%BA%E7%82%8E%E8%AF%8A%E6%96%AD%E5%92%8C%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97%282016%E5%B9%B4%E7%89%88%29.html",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/890781",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://master.yiigle.com/uploads/guide_html/%E4%B8%AD%E5%9B%BD%E6%88%90%E4%BA%BA%E7%A4%BE%E5%8C%BA%E8%8E%B7%E5%BE%97%E6%80%A7%E8%82%BA%E7%82%8E%E8%AF%8A%E6%96%AD%E5%92%8C%E6%B2%BB%E7%96%97%E6%8C%87%E5%8D%97%282016%E5%B9%B4%E7%89%88%29.html",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://doi.org/10.1111/crj.12674",
+          "subscription": true
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/respiratory/#g-cn-cap-2016",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/respiratory/#g-cn-cap-2016"
+    },
+    {
+      "id": "esc-acs-2023",
+      "title": "2023 ESC Guidelines for the management of acute coronary syndromes",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "EU",
+      "specialty": "Cardiology",
+      "topic": "Acute coronary syndromes",
+      "topicGroup": "Acute coronary syndromes",
+      "organizations": [
+        {
+          "name": "European Society of Cardiology",
+          "acronym": "ESC",
+          "website": "https://escardio.org"
+        }
+      ],
+      "version": "2023",
+      "versionEnglish": "2023",
+      "publicationDate": "2023-08-25",
+      "previousVersion": "2020 ESC Guidelines for the management of acute coronary syndromes in patients presenting without persistent ST-segment elevation; 2017 ESC Guidelines for the management of acute myocardial infarction in patients presenting with ST-segment elevation",
+      "doi": "10.1093/eurheartj/ehad191",
+      "pmid": "37622654",
+      "officialUrl": "https://www.escardio.org/guidelines/clinical-practice-guidelines/all-esc-practice-guidelines/acute-coronary-syndromes/",
+      "fullTextUrl": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad191",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad191",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://academic.oup.com/eurheartj/article-lookup/doi/10.1093/eurheartj/ehad191",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1093/eurheartj/ehad870",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1093/ehjacc/zuad156",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/cardiology/#g-esc-acs-2023",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/cardiology/#g-esc-acs-2023"
+    },
+    {
+      "id": "acc-aha-acs-2025",
+      "title": "2025 ACC/AHA/ACEP/NAEMSP/SCAI Guideline for the Management of Patients With Acute Coronary Syndromes",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "US",
+      "specialty": "Cardiology",
+      "topic": "Acute coronary syndromes",
+      "topicGroup": "Acute coronary syndromes",
+      "organizations": [
+        {
+          "name": "American College of Cardiology",
+          "acronym": "ACC",
+          "website": "https://acc.org"
+        },
+        {
+          "name": "American Heart Association",
+          "acronym": "AHA",
+          "website": "https://professional.heart.org"
+        }
+      ],
+      "version": "2025",
+      "versionEnglish": "2025",
+      "publicationDate": "2025-02-27",
+      "previousVersion": "2013 ACCF/AHA Guideline for the Management of ST-Elevation Myocardial Infarction; 2014 AHA/ACC Guideline for the Management of Patients With Non–ST-Elevation Acute Coronary Syndromes",
+      "doi": "10.1016/j.jacc.2024.11.009",
+      "pmid": "40013746",
+      "officialUrl": "https://professional.heart.org/en/guidelines-statements/2025-accahaacepnaemspscai-guideline-for-the-management-of-patients-with-acutecir0000000000001309",
+      "fullTextUrl": "https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001309",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "official-landing",
+          "url": "https://www.acc.org/About-ACC/Press-Releases/2025/02/28/17/51/ACC-AHA-Issue-New-Acute-Coronary-Syndromes-Guideline",
+          "subscription": false
+        },
+        {
+          "type": "guideline-hub",
+          "url": "https://www.acc.org/Guidelines",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://www.jacc.org/doi/10.1016/j.jacc.2024.11.009",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://www.ahajournals.org/doi/10.1161/CIR.0000000000001309",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://doi.org/10.1016/j.jacc.2025.01.018",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1161/CIR.0000000000001328",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1161/CIR.0000000000001346",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1161/CIR.0000000000001397",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1016/j.jacc.2025.03.500",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1016/j.jacc.2025.10.050",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/cardiology/#g-acc-aha-acs-2025",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/cardiology/#g-acc-aha-acs-2025"
+    },
+    {
+      "id": "ata-dtc-2025",
+      "title": "2025 American Thyroid Association Management Guidelines for Adult Patients with Differentiated Thyroid Cancer",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "US",
+      "specialty": "Endocrinology, diabetes and bone metabolism",
+      "topic": "Differentiated thyroid cancer in adults",
+      "topicGroup": "Thyroid nodules and thyroid cancer",
+      "organizations": [
+        {
+          "name": "American Thyroid Association",
+          "acronym": "ATA",
+          "website": "https://thyroid.org"
+        }
+      ],
+      "version": "2025",
+      "versionEnglish": "2025",
+      "publicationDate": "2025-08-20",
+      "previousVersion": "2015 American Thyroid Association Management Guidelines for Adult Patients with Thyroid Nodules and Differentiated Thyroid Cancer",
+      "doi": "10.1177/10507256251363120",
+      "pmid": "40844370",
+      "officialUrl": "https://www.thyroid.org/professionals/ata-professional-guidelines/",
+      "fullTextUrl": "https://journals.sagepub.com/doi/10.1177/10507256251363120",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090833/",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "guideline-hub",
+          "url": "https://www.thyroid.org/professionals/ata-professional-guidelines/",
+          "subscription": false
+        },
+        {
+          "type": "official-landing",
+          "url": "https://www.thyroid.org/new-ata-guidelines-adult-patients-differentiated-thyroid-cancer/",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://journals.sagepub.com/doi/10.1177/10507256251363120",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13090833/",
+          "subscription": false
+        },
+        {
+          "type": "executive-summary",
+          "url": "https://doi.org/10.1177/10507256251390877",
+          "subscription": false
+        },
+        {
+          "type": "correction",
+          "url": "https://doi.org/10.1177/10507256251387671",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/endocrinology/#g-ata-dtc-2025",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/endocrinology/#g-ata-dtc-2025"
+    },
+    {
+      "id": "isshp-hdp-2021",
+      "title": "The 2021 International Society for the Study of Hypertension in Pregnancy classification, diagnosis & management recommendations for international practice",
+      "titleEnglish": null,
+      "titleEnglishOfficial": null,
+      "translations": [],
+      "language": "en",
+      "region": "GLOBAL",
+      "specialty": "Obstetrics, gynecology and reproductive endocrinology",
+      "topic": "Hypertensive disorders of pregnancy",
+      "topicGroup": "Hypertensive disorders of pregnancy",
+      "organizations": [
+        {
+          "name": "International Society for the Study of Hypertension in Pregnancy",
+          "acronym": "ISSHP",
+          "website": "https://isshp.org"
+        }
+      ],
+      "version": "2021",
+      "versionEnglish": "2021",
+      "publicationDate": "2021-10-09",
+      "previousVersion": "Hypertensive Disorders of Pregnancy: ISSHP Classification, Diagnosis, and Management Recommendations for International Practice (2018)",
+      "doi": "10.1016/j.preghy.2021.09.008",
+      "pmid": "35066406",
+      "officialUrl": "https://isshp.org/guidelines/",
+      "fullTextUrl": "https://isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "guideline-hub",
+          "url": "https://isshp.org/guidelines/",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://isshp.org/wp-content/uploads/2023/09/ISSHP-2021-guidelines.pdf",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://doi.org/10.1016/j.preghy.2021.09.008",
+          "subscription": true
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/obstetrics-gynecology/#g-isshp-hdp-2021",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/obstetrics-gynecology/#g-isshp-hdp-2021"
+    },
+    {
+      "id": "cn-obesity-2024",
+      "title": "肥胖症诊疗指南（2024年版）",
+      "titleEnglish": "Guideline for the Diagnosis and Treatment of Obesity (2024 edition)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Endocrinology, diabetes and bone metabolism",
+      "topic": "Obesity",
+      "topicGroup": "Obesity",
+      "organizations": [
+        {
+          "name": "中华人民共和国国家卫生健康委员会",
+          "acronym": "NHC",
+          "website": "https://nhc.gov.cn"
+        }
+      ],
+      "version": "2024",
+      "versionEnglish": "2024",
+      "publicationDate": "2024-10",
+      "previousVersion": null,
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://www.gov.cn/zhengce/zhengceku/202410/content_6981734.htm",
+      "fullTextUrl": "https://www.gov.cn/zhengce/zhengceku/202410/P020241020715873679737.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://www.gov.cn/zhengce/zhengceku/202410/P020241020715873679737.pdf",
+      "previousVersionRelation": null,
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "official-landing",
+          "url": "https://www.gov.cn/zhengce/zhengceku/202410/content_6981734.htm",
+          "subscription": false
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://www.gov.cn/zhengce/zhengceku/202410/P020241020715873679737.pdf",
+          "subscription": false
+        },
+        {
+          "type": "official-landing",
+          "url": "https://www.nhc.gov.cn/yzygj/s7659/202410/ae3948b3fc9444feb2ecd26fb2daa111.shtml",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://xhyxzz.pumch.cn/cn/article/doi/10.12290/xhyxzz.2024-0918",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/endocrinology/#g-cn-obesity-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/endocrinology/#g-cn-obesity-2024"
+    },
+    {
+      "id": "cn-thyroid-nodule-dtc-2023",
+      "title": "甲状腺结节和分化型甲状腺癌诊治指南（第二版）",
+      "titleEnglish": "Guidelines for the Diagnosis and Management of Thyroid Nodules and Differentiated Thyroid Cancer (2nd edition, 2023)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Endocrinology, diabetes and bone metabolism",
+      "topic": "Thyroid nodules and differentiated thyroid cancer",
+      "topicGroup": "Thyroid nodules and thyroid cancer",
+      "organizations": [
+        {
+          "name": "中华医学会内分泌学分会",
+          "acronym": "CSE",
+          "website": "https://cma.org.cn"
+        },
+        {
+          "name": "中华医学会外科学分会甲状腺及代谢外科学组",
+          "acronym": null,
+          "website": "https://cma.org.cn"
+        },
+        {
+          "name": "中国抗癌协会头颈肿瘤专业委员会",
+          "acronym": null,
+          "website": "https://caca.org.cn"
+        },
+        {
+          "name": "中华医学会核医学分会",
+          "acronym": null,
+          "website": "https://cma.org.cn"
+        },
+        {
+          "name": "中国抗癌协会甲状腺癌专业委员会",
+          "acronym": null,
+          "website": "https://caca.org.cn"
+        },
+        {
+          "name": "中国医师协会外科医师分会甲状腺外科医师委员会",
+          "acronym": null,
+          "website": "https://cmda.net"
+        }
+      ],
+      "version": "第二版（2023）",
+      "versionEnglish": "2nd edition (2023)",
+      "publicationDate": "2023-03-25",
+      "previousVersion": "甲状腺结节和分化型甲状腺癌诊治指南（2012）",
+      "doi": "10.3760/cma.j.cn311282-20221023-00589",
+      "pmid": null,
+      "officialUrl": "https://rs.yiigle.com/cmaid/1451011",
+      "fullTextUrl": "https://rs.yiigle.com/cmaid/1451011",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://chinanm.cma.org.cn/attach/0/d7217f6afb97410892c94e12e8767673.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1451011",
+          "subscription": true
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://chinanm.cma.org.cn/attach/0/d7217f6afb97410892c94e12e8767673.pdf",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/endocrinology/#g-cn-thyroid-nodule-dtc-2023",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/endocrinology/#g-cn-thyroid-nodule-dtc-2023"
+    },
+    {
+      "id": "cn-thyroid-cancer-nhc-2022",
+      "title": "甲状腺癌诊疗指南（2022年版）",
+      "titleEnglish": "Guidelines for the Diagnosis and Treatment of Thyroid Cancer (2022 edition)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Endocrinology, diabetes and bone metabolism",
+      "topic": "Thyroid cancer",
+      "topicGroup": "Thyroid nodules and thyroid cancer",
+      "organizations": [
+        {
+          "name": "中华人民共和国国家卫生健康委员会",
+          "acronym": "NHC",
+          "website": "https://nhc.gov.cn"
+        }
+      ],
+      "version": "2022年版",
+      "versionEnglish": "2022 edition",
+      "publicationDate": "2022-04-11",
+      "previousVersion": "甲状腺癌诊疗规范（2018年版）",
+      "doi": null,
+      "pmid": null,
+      "officialUrl": "https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930.shtml",
+      "fullTextUrl": "https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930/files/1732863055520_88237.pdf",
+      "fullTextAccess": "free",
+      "fullTextFormat": "pdf",
+      "fullTextLink": "https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930/files/1732863055520_88237.pdf",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "full-guideline",
+          "url": "https://www.nhc.gov.cn/yzygj/c100068/202204/0c1f7d3aca0545abbeb02030ce255930/files/1732863055520_88237.pdf",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/endocrinology/#g-cn-thyroid-cancer-nhc-2022",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/endocrinology/#g-cn-thyroid-cancer-nhc-2022"
+    },
+    {
+      "id": "cn-nste-acs-2024",
+      "title": "非ST段抬高型急性冠脉综合征诊断和治疗指南（2024）",
+      "titleEnglish": "Guidelines for the Diagnosis and Treatment of Non-ST-Segment Elevation Acute Coronary Syndrome (2024)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Cardiology",
+      "topic": "Non-ST-segment elevation acute coronary syndrome",
+      "topicGroup": "Acute coronary syndromes",
+      "organizations": [
+        {
+          "name": "中华医学会心血管病学分会",
+          "acronym": "CSC",
+          "website": "https://csc.cma.org.cn"
+        },
+        {
+          "name": "中华心血管病杂志编辑委员会",
+          "acronym": null,
+          "website": "https://yiigle.com"
+        }
+      ],
+      "version": "2024",
+      "versionEnglish": "2024",
+      "publicationDate": "2024-06-24",
+      "previousVersion": "非ST段抬高型急性冠状动脉综合征诊断和治疗指南（2016）",
+      "doi": "10.3760/cma.j.cn112148-20240107-00014",
+      "pmid": "38880743",
+      "officialUrl": "https://rs.yiigle.com/cmaid/1505378",
+      "fullTextUrl": "https://rs.yiigle.com/cmaid/1505378",
+      "fullTextAccess": "may-need-access",
+      "fullTextFormat": null,
+      "fullTextLink": "https://rs.yiigle.com/cmaid/1505378",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "guideline-hub",
+          "url": "https://csc.cma.org.cn/col/col619/index.html",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1505378",
+          "subscription": true
+        },
+        {
+          "type": "identity-record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38880743/",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/cardiology/#g-cn-nste-acs-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/cardiology/#g-cn-nste-acs-2024"
+    },
+    {
+      "id": "cn-hypertensive-pregnancy-2020",
+      "title": "妊娠期高血压疾病诊治指南（2020）",
+      "titleEnglish": "Guideline for the Diagnosis and Treatment of Hypertensive Disorders of Pregnancy (2020)",
+      "titleEnglishOfficial": false,
+      "translations": [],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Obstetrics, gynecology and reproductive endocrinology",
+      "topic": "Hypertensive disorders of pregnancy",
+      "topicGroup": "Hypertensive disorders of pregnancy",
+      "organizations": [
+        {
+          "name": "中华医学会妇产科学分会妊娠期高血压疾病学组",
+          "acronym": null,
+          "website": "https://cma.org.cn"
+        }
+      ],
+      "version": "2020",
+      "versionEnglish": "2020",
+      "publicationDate": "2020-04-25",
+      "previousVersion": "妊娠期高血压疾病诊治指南（2015）",
+      "doi": "10.3760/cma.j.cn112141-20200114-00039",
+      "pmid": "32375429",
+      "officialUrl": "https://rs.yiigle.com/cmaid/1192238",
+      "fullTextUrl": "https://rs.yiigle.com/cmaid/1192238",
+      "fullTextAccess": "free",
+      "fullTextFormat": "web",
+      "fullTextLink": "https://master.yiigle.com/uploads/guide_html/%E5%A6%8A%E5%A8%A0%E6%9C%9F%E9%AB%98%E8%A1%80%E5%8E%8B%E7%96%BE%E7%97%85%E8%AF%8A%E6%B2%BB%E6%8C%87%E5%8D%97%EF%BC%882020%EF%BC%89.html",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1192238",
+          "subscription": true
+        },
+        {
+          "type": "full-guideline",
+          "url": "https://master.yiigle.com/uploads/guide_html/%E5%A6%8A%E5%A8%A0%E6%9C%9F%E9%AB%98%E8%A1%80%E5%8E%8B%E7%96%BE%E7%97%85%E8%AF%8A%E6%B2%BB%E6%8C%87%E5%8D%97%EF%BC%882020%EF%BC%89.html",
+          "subscription": false
+        },
+        {
+          "type": "identity-record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32375429/",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/obstetrics-gynecology/#g-cn-hypertensive-pregnancy-2020",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/obstetrics-gynecology/#g-cn-hypertensive-pregnancy-2020"
+    },
+    {
+      "id": "cn-hyperuricemia-gout-2024",
+      "title": "中国高尿酸血症与痛风诊疗指南（2024）",
+      "titleEnglish": "2024 Update of Chinese Guidelines for Diagnosis and Treatment of Hyperuricemia and Gout Part I: Recommendations for General Patients",
+      "titleEnglishOfficial": true,
+      "translations": [
+        {
+          "language": "en",
+          "title": "2024 Update of Chinese Guidelines for Diagnosis and Treatment of Hyperuricemia and Gout Part I: Recommendations for General Patients",
+          "url": "https://doi.org/10.1111/1756-185x.70375",
+          "free": true
+        }
+      ],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Rheumatology",
+      "topic": "Hyperuricemia and gout",
+      "topicGroup": "Gout and hyperuricemia",
+      "organizations": [
+        {
+          "name": "中华医学会内分泌学分会",
+          "acronym": "CSE",
+          "website": "https://cma.org.cn"
+        }
+      ],
+      "version": "2024（更新 2019 版；第一部分：一般痛风患者）",
+      "versionEnglish": "2024 update of the 2019 edition (Part I)",
+      "publicationDate": "2025-10-25",
+      "previousVersion": "中国高尿酸血症与痛风诊疗指南（2019）",
+      "doi": "10.3760/cma.j.cn311282-20250806-00392",
+      "pmid": null,
+      "officialUrl": "https://rs.yiigle.com/cmaid/1603305",
+      "fullTextUrl": "https://rs.yiigle.com/cmaid/1603305",
+      "fullTextAccess": "may-need-access",
+      "fullTextFormat": null,
+      "fullTextLink": "https://rs.yiigle.com/cmaid/1603305",
+      "previousVersionRelation": "updates",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2026-12-16",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1603305",
+          "subscription": true
+        },
+        {
+          "type": "journal-version",
+          "url": "https://doi.org/10.1111/1756-185x.70375",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://doi.org/10.1111/1756-185x.70402",
+          "subscription": false
+        },
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1179377",
+          "subscription": true
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/rheumatology/#g-cn-hyperuricemia-gout-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/rheumatology/#g-cn-hyperuricemia-gout-2024"
+    },
+    {
+      "id": "cn-rheumatoid-arthritis-2024",
+      "title": "2024中国类风湿关节炎诊疗指南",
+      "titleEnglish": "Chinese guidelines for the diagnosis and treatment of rheumatoid arthritis: 2024 update",
+      "titleEnglishOfficial": true,
+      "translations": [
+        {
+          "language": "en",
+          "title": "Chinese guidelines for the diagnosis and treatment of rheumatoid arthritis: 2024 update",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11720473/",
+          "free": true
+        }
+      ],
+      "language": "zh",
+      "region": "CN",
+      "specialty": "Rheumatology",
+      "topic": "Rheumatoid arthritis",
+      "topicGroup": "Rheumatoid arthritis",
+      "organizations": [
+        {
+          "name": "国家皮肤与免疫疾病临床医学研究中心（北京协和医院）",
+          "acronym": null,
+          "website": "https://pumch.cn"
+        },
+        {
+          "name": "中国医师协会风湿免疫专科医师分会",
+          "acronym": null,
+          "website": "https://cmda.net"
+        },
+        {
+          "name": "中国康复医学会风湿免疫病康复专业委员会",
+          "acronym": null,
+          "website": "https://carm.org.cn"
+        },
+        {
+          "name": "中国研究型医院学会风湿免疫专业委员会",
+          "acronym": null,
+          "website": "https://crha.cn"
+        }
+      ],
+      "version": "2024",
+      "versionEnglish": "2024",
+      "publicationDate": "2024-11",
+      "previousVersion": "2018中国类风湿关节炎诊疗指南",
+      "doi": "10.3760/cma.j.cn112138-20240531-00360",
+      "pmid": "39482070",
+      "officialUrl": "https://rs.yiigle.com/cmaid/1519051",
+      "fullTextUrl": "https://rs.yiigle.com/cmaid/1519051",
+      "fullTextAccess": "may-need-access",
+      "fullTextFormat": null,
+      "fullTextLink": "https://rs.yiigle.com/cmaid/1519051",
+      "previousVersionRelation": "replaces",
+      "lastChecked": "2026-10-17",
+      "nextCheckDue": "2027-01-15",
+      "links": [
+        {
+          "type": "journal-version",
+          "url": "https://rs.yiigle.com/cmaid/1519051",
+          "subscription": true
+        },
+        {
+          "type": "journal-version",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11720473/",
+          "subscription": false
+        },
+        {
+          "type": "identity-record",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39482070/",
+          "subscription": false
+        }
+      ],
+      "page": "https://www.medicrab.com/guidelines/rheumatology/#g-cn-rheumatoid-arthritis-2024",
+      "pageZh": "https://www.medicrab.com/zh/guidelines/rheumatology/#g-cn-rheumatoid-arthritis-2024"
+    }
+  ]
+}
