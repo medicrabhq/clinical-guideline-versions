@@ -1,6 +1,6 @@
 # Clinical guideline versions
 
-72 clinical practice guidelines from China, Europe, the United States, the United Kingdom and international societies. For each one: the latest version we have recorded, the earlier version it replaces or updates (where known), the date we last checked it against the issuing organization, and where to get the full text.
+More than 200 clinical practice guidelines from the United States, the United Kingdom, Europe, Canada, Australia, New Zealand, China and international societies. For each one: the latest version we have recorded, the earlier version it replaces or updates (where known), the date we last checked it against the issuing organization, and where to get the full text.
 
 Browse it on the web: https://www.medicrab.com/guidelines/
 
@@ -41,17 +41,20 @@ Full-text access values:
 
 ## Coverage
 
-As of 17 October 2026:
+As of 27 October 2026:
 
 | Region | Guidelines |
 | --- | --- |
-| China | 37 |
-| United States | 15 |
-| International | 10 |
-| Europe | 7 |
-| United Kingdom | 3 |
+| United States | 69 |
+| China | 48 |
+| United Kingdom | 43 |
+| Europe | 24 |
+| International | 19 |
+| Canada | 18 |
+| Australia | 8 |
+| New Zealand | 3 |
 
-Specialties: orthopaedics, cardiology, endocrinology, gastroenterology and hepatology, obstetrics and gynecology, respiratory medicine, critical care, oncology, andrology, neurology, rheumatology and nephrology. A few entries are consensus statements or diagnostic criteria.
+Specialties: cardiology, endocrinology and diabetes, oncology, orthopaedics, obstetrics and gynecology, respiratory medicine, neurology, gastroenterology and hepatology, rheumatology, psychiatry, infectious diseases, perioperative care, critical care, nephrology, geriatrics, hematology, prevention and screening, dermatology, pediatrics and andrology. A few entries are consensus statements or diagnostic criteria. Some guidelines are updated chapter by chapter (for example Diabetes Canada); these are listed one chapter per entry.
 
 This is not a complete list of guidelines in these fields. To report an error or a new version, open an issue with a link to the issuing organization's page.
 
